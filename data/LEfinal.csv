@@ -1,0 +1,3367 @@
+country,year,le
+"Albania",1981,70.416
+"Albania",1982,70.635
+"Albania",1983,70.876
+"Albania",1984,71.134
+"Albania",1985,71.388
+"Albania",1986,71.605
+"Albania",1987,71.76
+"Albania",1988,71.843
+"Albania",1989,71.86
+"Albania",1990,71.836
+"Albania",1991,71.803
+"Albania",1992,71.802
+"Albania",1993,71.86
+"Albania",1994,71.992
+"Albania",1995,72.205
+"Albania",1996,72.495
+"Albania",1997,72.838
+"Albania",1998,73.208
+"Albania",1999,73.588
+"Albania",2000,73.955
+"Albania",2001,74.286
+"Albania",2002,74.575
+"Albania",2003,74.82
+"Albania",2004,75.028
+"Albania",2005,75.217
+"Albania",2006,75.418
+"Albania",2007,75.656
+"Albania",2008,75.943
+"Albania",2009,76.281
+"Albania",2010,76.652
+"Albania",2011,77.031
+"Albania",2012,77.389
+"Albania",2013,77.702
+"Albania",2014,77.963
+"Algeria",1981,59.521
+"Algeria",1982,60.823
+"Algeria",1983,62.047
+"Algeria",1984,63.156
+"Algeria",1985,64.113
+"Algeria",1986,64.896
+"Algeria",1987,65.525
+"Algeria",1988,66.025
+"Algeria",1989,66.416
+"Algeria",1990,66.725
+"Algeria",1991,66.983
+"Algeria",1992,67.226
+"Algeria",1993,67.482
+"Algeria",1994,67.774
+"Algeria",1995,68.115
+"Algeria",1996,68.504
+"Algeria",1997,68.926
+"Algeria",1998,69.367
+"Algeria",1999,69.822
+"Algeria",2000,70.292
+"Algeria",2001,70.778
+"Algeria",2002,71.276
+"Algeria",2003,71.78
+"Algeria",2004,72.281
+"Algeria",2005,72.767
+"Algeria",2006,73.225
+"Algeria",2007,73.648
+"Algeria",2008,74.032
+"Algeria",2009,74.374
+"Algeria",2010,74.676
+"Algeria",2011,74.944
+"Algeria",2012,75.187
+"Algeria",2013,75.418
+"Algeria",2014,75.641
+"Andorra",1981,
+"Andorra",1982,
+"Andorra",1983,
+"Andorra",1984,
+"Andorra",1985,
+"Andorra",1986,
+"Andorra",1987,
+"Andorra",1988,
+"Andorra",1989,
+"Andorra",1990,
+"Andorra",1991,
+"Andorra",1992,
+"Andorra",1993,
+"Andorra",1994,
+"Andorra",1995,
+"Andorra",1996,
+"Andorra",1997,
+"Andorra",1998,
+"Andorra",1999,
+"Andorra",2000,
+"Andorra",2001,
+"Andorra",2002,
+"Andorra",2003,
+"Andorra",2004,
+"Andorra",2005,
+"Andorra",2006,
+"Andorra",2007,
+"Andorra",2008,
+"Andorra",2009,
+"Andorra",2010,
+"Andorra",2011,
+"Andorra",2012,
+"Andorra",2013,
+"Andorra",2014,
+"Argentina",1981,69.746
+"Argentina",1982,70.003
+"Argentina",1983,70.234
+"Argentina",1984,70.438
+"Argentina",1985,70.623
+"Argentina",1986,70.797
+"Argentina",1987,70.971
+"Argentina",1988,71.155
+"Argentina",1989,71.352
+"Argentina",1990,71.565
+"Argentina",1991,71.79
+"Argentina",1992,72.023
+"Argentina",1993,72.256
+"Argentina",1994,72.489
+"Argentina",1995,72.719
+"Argentina",1996,72.947
+"Argentina",1997,73.173
+"Argentina",1998,73.397
+"Argentina",1999,73.618
+"Argentina",2000,73.832
+"Argentina",2001,74.039
+"Argentina",2002,74.236
+"Argentina",2003,74.424
+"Argentina",2004,74.603
+"Argentina",2005,74.775
+"Argentina",2006,74.941
+"Argentina",2007,75.105
+"Argentina",2008,75.268
+"Argentina",2009,75.431
+"Argentina",2010,75.595
+"Argentina",2011,75.761
+"Argentina",2012,75.926
+"Argentina",2013,76.089
+"Argentina",2014,76.252
+"Armenia",1981,70.91
+"Armenia",1982,70.776
+"Armenia",1983,70.519
+"Armenia",1984,70.15
+"Armenia",1985,69.698
+"Armenia",1986,69.205
+"Armenia",1987,68.732
+"Armenia",1988,68.332
+"Armenia",1989,68.038
+"Armenia",1990,67.879
+"Armenia",1991,67.87
+"Armenia",1992,67.99
+"Armenia",1993,68.218
+"Armenia",1994,68.538
+"Armenia",1995,68.938
+"Armenia",1996,69.404
+"Armenia",1997,69.912
+"Armenia",1998,70.434
+"Armenia",1999,70.944
+"Armenia",2000,71.409
+"Armenia",2001,71.8
+"Armenia",2002,72.112
+"Armenia",2003,72.347
+"Armenia",2004,72.512
+"Armenia",2005,72.625
+"Armenia",2006,72.715
+"Armenia",2007,72.815
+"Armenia",2008,72.946
+"Armenia",2009,73.119
+"Armenia",2010,73.331
+"Armenia",2011,73.571
+"Armenia",2012,73.814
+"Armenia",2013,74.044
+"Armenia",2014,74.255
+"Australia",1981,74.66341
+"Australia",1982,74.90488
+"Australia",1983,75.14634
+"Australia",1984,75.3878
+"Australia",1985,75.62926
+"Australia",1986,75.87074
+"Australia",1987,76.15171
+"Australia",1988,76.43269
+"Australia",1989,76.71366
+"Australia",1990,76.99464
+"Australia",1991,77.27561
+"Australia",1992,77.37805
+"Australia",1993,77.87805
+"Australia",1994,77.87805
+"Australia",1995,77.82927
+"Australia",1996,78.07805
+"Australia",1997,78.48048
+"Australia",1998,78.63171
+"Australia",1999,78.93171
+"Australia",2000,79.23415
+"Australia",2001,79.63415
+"Australia",2002,79.93658
+"Australia",2003,80.23902
+"Australia",2004,80.49024
+"Australia",2005,80.84146
+"Australia",2006,81.04147
+"Australia",2007,81.29269
+"Australia",2008,81.39512
+"Australia",2009,81.5439
+"Australia",2010,81.69512
+"Australia",2011,81.89512
+"Australia",2012,82.04634
+"Australia",2013,82.14878
+"Australia",2014,82.3
+"Azerbaijan",1981,64.28
+"Azerbaijan",1982,64.424
+"Azerbaijan",1983,64.587
+"Azerbaijan",1984,64.759
+"Azerbaijan",1985,64.913
+"Azerbaijan",1986,65.016
+"Azerbaijan",1987,65.053
+"Azerbaijan",1988,65.021
+"Azerbaijan",1989,64.935
+"Azerbaijan",1990,64.827
+"Azerbaijan",1991,64.745
+"Azerbaijan",1992,64.731
+"Azerbaijan",1993,64.81
+"Azerbaijan",1994,64.991
+"Azerbaijan",1995,65.256
+"Azerbaijan",1996,65.573
+"Azerbaijan",1997,65.899
+"Azerbaijan",1998,66.207
+"Azerbaijan",1999,66.491
+"Azerbaijan",2000,66.763
+"Azerbaijan",2001,67.054
+"Azerbaijan",2002,67.391
+"Azerbaijan",2003,67.791
+"Azerbaijan",2004,68.249
+"Azerbaijan",2005,68.75
+"Azerbaijan",2006,69.269
+"Azerbaijan",2007,69.774
+"Azerbaijan",2008,70.238
+"Azerbaijan",2009,70.646
+"Azerbaijan",2010,70.987
+"Azerbaijan",2011,71.26
+"Azerbaijan",2012,71.478
+"Azerbaijan",2013,71.656
+"Azerbaijan",2014,71.8
+"Bahrain",1981,69.95
+"Bahrain",1982,70.316
+"Bahrain",1983,70.65
+"Bahrain",1984,70.956
+"Bahrain",1985,71.237
+"Bahrain",1986,71.495
+"Bahrain",1987,71.735
+"Bahrain",1988,71.962
+"Bahrain",1989,72.179
+"Bahrain",1990,72.39
+"Bahrain",1991,72.598
+"Bahrain",1992,72.803
+"Bahrain",1993,73.006
+"Bahrain",1994,73.209
+"Bahrain",1995,73.413
+"Bahrain",1996,73.619
+"Bahrain",1997,73.826
+"Bahrain",1998,74.033
+"Bahrain",1999,74.239
+"Bahrain",2000,74.44
+"Bahrain",2001,74.635
+"Bahrain",2002,74.822
+"Bahrain",2003,74.999
+"Bahrain",2004,75.167
+"Bahrain",2005,75.326
+"Bahrain",2006,75.478
+"Bahrain",2007,75.625
+"Bahrain",2008,75.77
+"Bahrain",2009,75.913
+"Bahrain",2010,76.056
+"Bahrain",2011,76.199
+"Bahrain",2012,76.341
+"Bahrain",2013,76.482
+"Bahrain",2014,76.622
+"Bangladesh",1981,53.917
+"Bangladesh",1982,54.292
+"Bangladesh",1983,54.678
+"Bangladesh",1984,55.102
+"Bangladesh",1985,55.578
+"Bangladesh",1986,56.102
+"Bangladesh",1987,56.654
+"Bangladesh",1988,57.22
+"Bangladesh",1989,57.8
+"Bangladesh",1990,58.401
+"Bangladesh",1991,59.033
+"Bangladesh",1992,59.7
+"Bangladesh",1993,60.4
+"Bangladesh",1994,61.127
+"Bangladesh",1995,61.868
+"Bangladesh",1996,62.61
+"Bangladesh",1997,63.338
+"Bangladesh",1998,64.038
+"Bangladesh",1999,64.702
+"Bangladesh",2000,65.324
+"Bangladesh",2001,65.903
+"Bangladesh",2002,66.448
+"Bangladesh",2003,66.965
+"Bangladesh",2004,67.46
+"Bangladesh",2005,67.937
+"Bangladesh",2006,68.403
+"Bangladesh",2007,68.861
+"Bangladesh",2008,69.312
+"Bangladesh",2009,69.759
+"Bangladesh",2010,70.198
+"Bangladesh",2011,70.626
+"Bangladesh",2012,71.039
+"Bangladesh",2013,71.431
+"Bangladesh",2014,71.803
+"Belarus",1981,69.81917
+"Belarus",1982,69.90822
+"Belarus",1983,70.06466
+"Belarus",1984,70.27193
+"Belarus",1985,70.99268
+"Belarus",1986,71.54951
+"Belarus",1987,70.99024
+"Belarus",1988,71.34146
+"Belarus",1989,71.48293
+"Belarus",1990,70.83659
+"Belarus",1991,70.37805
+"Belarus",1992,70.02195
+"Belarus",1993,68.97073
+"Belarus",1994,68.7683
+"Belarus",1995,68.46098
+"Belarus",1996,68.51219
+"Belarus",1997,68.46098
+"Belarus",1998,68.40732
+"Belarus",1999,67.90732
+"Belarus",2000,68.91219
+"Belarus",2001,68.50732
+"Belarus",2002,68.0561
+"Belarus",2003,68.55366
+"Belarus",2004,68.9561
+"Belarus",2005,68.85122
+"Belarus",2006,69.40488
+"Belarus",2007,70.20731
+"Belarus",2008,70.4561
+"Belarus",2009,70.40732
+"Belarus",2010,70.40488
+"Belarus",2011,70.55366
+"Belarus",2012,71.96585
+"Belarus",2013,72.47073
+"Belarus",2014,72.97073
+"Bosnia",1981,70.601
+"Bosnia",1982,70.82
+"Bosnia",1983,71.061
+"Bosnia",1984,71.315
+"Bosnia",1985,71.534
+"Bosnia",1986,71.65
+"Bosnia",1987,71.626
+"Bosnia",1988,71.461
+"Bosnia",1989,71.185
+"Bosnia",1990,70.877
+"Bosnia",1991,70.645
+"Bosnia",1992,70.577
+"Bosnia",1993,70.724
+"Bosnia",1994,71.091
+"Bosnia",1995,71.643
+"Bosnia",1996,72.306
+"Bosnia",1997,72.977
+"Bosnia",1998,73.572
+"Bosnia",1999,74.057
+"Bosnia",2000,74.413
+"Bosnia",2001,74.653
+"Bosnia",2002,74.824
+"Bosnia",2003,74.967
+"Bosnia",2004,75.096
+"Bosnia",2005,75.223
+"Bosnia",2006,75.353
+"Bosnia",2007,75.486
+"Bosnia",2008,75.619
+"Bosnia",2009,75.758
+"Bosnia",2010,75.905
+"Bosnia",2011,76.06
+"Bosnia",2012,76.223
+"Bosnia",2013,76.39
+"Bosnia",2014,76.561
+"Brazil",1981,62.264
+"Brazil",1982,62.559
+"Brazil",1983,62.866
+"Brazil",1984,63.185
+"Brazil",1985,63.514
+"Brazil",1986,63.852
+"Brazil",1987,64.197
+"Brazil",1988,64.552
+"Brazil",1989,64.917
+"Brazil",1990,65.3
+"Brazil",1991,65.708
+"Brazil",1992,66.144
+"Brazil",1993,66.607
+"Brazil",1994,67.095
+"Brazil",1995,67.6
+"Brazil",1996,68.112
+"Brazil",1997,68.622
+"Brazil",1998,69.12
+"Brazil",1999,69.599
+"Brazil",2000,70.055
+"Brazil",2001,70.486
+"Brazil",2002,70.896
+"Brazil",2003,71.29
+"Brazil",2004,71.67
+"Brazil",2005,72.04
+"Brazil",2006,72.405
+"Brazil",2007,72.768
+"Brazil",2008,73.129
+"Brazil",2009,73.488
+"Brazil",2010,73.838
+"Brazil",2011,74.174
+"Brazil",2012,74.488
+"Brazil",2013,74.777
+"Brazil",2014,75.042
+"Bulgaria",1981,71.57195
+"Bulgaria",1982,71.1861
+"Bulgaria",1983,71.38634
+"Bulgaria",1984,71.49976
+"Bulgaria",1985,71.22805
+"Bulgaria",1986,71.73073
+"Bulgaria",1987,71.52683
+"Bulgaria",1988,71.60439
+"Bulgaria",1989,71.72244
+"Bulgaria",1990,71.64146
+"Bulgaria",1991,71.56097
+"Bulgaria",1992,71.49439
+"Bulgaria",1993,71.34683
+"Bulgaria",1994,71.20878
+"Bulgaria",1995,71.05341
+"Bulgaria",1996,70.89732
+"Bulgaria",1997,70.35122
+"Bulgaria",1998,71.06097
+"Bulgaria",1999,71.41219
+"Bulgaria",2000,71.66341
+"Bulgaria",2001,71.7683
+"Bulgaria",2002,71.86585
+"Bulgaria",2003,72.06586
+"Bulgaria",2004,72.56342
+"Bulgaria",2005,72.56097
+"Bulgaria",2006,72.6122
+"Bulgaria",2007,72.66341
+"Bulgaria",2008,72.96342
+"Bulgaria",2009,73.41219
+"Bulgaria",2010,73.51219
+"Bulgaria",2011,74.16341
+"Bulgaria",2012,74.31464
+"Bulgaria",2013,74.86098
+"Bulgaria",2014,74.46585
+"Burkina Faso",1981,46.984
+"Burkina Faso",1982,47.81
+"Burkina Faso",1983,48.486
+"Burkina Faso",1984,48.992
+"Burkina Faso",1985,49.323
+"Burkina Faso",1986,49.492
+"Burkina Faso",1987,49.55
+"Burkina Faso",1988,49.545
+"Burkina Faso",1989,49.505
+"Burkina Faso",1990,49.454
+"Burkina Faso",1991,49.409
+"Burkina Faso",1992,49.374
+"Burkina Faso",1993,49.36
+"Burkina Faso",1994,49.38
+"Burkina Faso",1995,49.445
+"Burkina Faso",1996,49.557
+"Burkina Faso",1997,49.713
+"Burkina Faso",1998,49.914
+"Burkina Faso",1999,50.168
+"Burkina Faso",2000,50.489
+"Burkina Faso",2001,50.893
+"Burkina Faso",2002,51.384
+"Burkina Faso",2003,51.956
+"Burkina Faso",2004,52.602
+"Burkina Faso",2005,53.31
+"Burkina Faso",2006,54.063
+"Burkina Faso",2007,54.841
+"Burkina Faso",2008,55.618
+"Burkina Faso",2009,56.376
+"Burkina Faso",2010,57.096
+"Burkina Faso",2011,57.762
+"Burkina Faso",2012,58.377
+"Burkina Faso",2013,58.942
+"Burkina Faso",2014,59.457
+"Canada",1981,75.47854
+"Canada",1982,75.68049
+"Canada",1983,76.03634
+"Canada",1984,76.31756
+"Canada",1985,76.30341
+"Canada",1986,76.44
+"Canada",1987,76.73951
+"Canada",1988,76.80927
+"Canada",1989,77.06561
+"Canada",1990,77.37708
+"Canada",1991,77.55341
+"Canada",1992,77.32073
+"Canada",1993,77.68512
+"Canada",1994,77.86195
+"Canada",1995,77.97756
+"Canada",1996,78.23048
+"Canada",1997,78.48048
+"Canada",1998,78.66244
+"Canada",1999,78.88293
+"Canada",2000,79.23659
+"Canada",2001,79.48781
+"Canada",2002,79.59024
+"Canada",2003,79.83903
+"Canada",2004,80.14146
+"Canada",2005,80.29269
+"Canada",2006,80.29269
+"Canada",2007,80.5439
+"Canada",2008,80.69512
+"Canada",2009,80.94634
+"Canada",2010,81.19756
+"Canada",2011,81.44878
+"Canada",2012,81.58351
+"Canada",2013,81.77205
+"Canada",2014,81.95305
+"Chile",1981,69.69
+"Chile",1982,70.265
+"Chile",1983,70.798
+"Chile",1984,71.288
+"Chile",1985,71.739
+"Chile",1986,72.157
+"Chile",1987,72.553
+"Chile",1988,72.936
+"Chile",1989,73.311
+"Chile",1990,73.68
+"Chile",1991,74.042
+"Chile",1992,74.394
+"Chile",1993,74.733
+"Chile",1994,75.059
+"Chile",1995,75.374
+"Chile",1996,75.678
+"Chile",1997,75.974
+"Chile",1998,76.259
+"Chile",1999,76.533
+"Chile",2000,76.793
+"Chile",2001,77.034
+"Chile",2002,77.255
+"Chile",2003,77.453
+"Chile",2004,77.632
+"Chile",2005,77.791
+"Chile",2006,77.934
+"Chile",2007,78.066
+"Chile",2008,78.193
+"Chile",2009,78.32
+"Chile",2010,78.454
+"Chile",2011,78.599
+"Chile",2012,78.758
+"Chile",2013,78.931
+"Chile",2014,79.117
+"China",1981,67.256
+"China",1982,67.618
+"China",1983,67.933
+"China",1984,68.21
+"China",1985,68.451
+"China",1986,68.661
+"China",1987,68.842
+"China",1988,69.002
+"China",1989,69.15
+"China",1990,69.293
+"China",1991,69.437
+"China",1992,69.587
+"China",1993,69.75
+"China",1994,69.935
+"China",1995,70.156
+"China",1996,70.427
+"China",1997,70.747
+"China",1998,71.115
+"China",1999,71.521
+"China",2000,71.955
+"China",2001,72.401
+"China",2002,72.84
+"China",2003,73.257
+"China",2004,73.642
+"China",2005,73.987
+"China",2006,74.291
+"China",2007,74.562
+"China",2008,74.808
+"China",2009,75.032
+"China",2010,75.236
+"China",2011,75.425
+"China",2012,75.602
+"China",2013,75.769
+"China",2014,75.932
+"Colombia",1981,66.049
+"Colombia",1982,66.541
+"Colombia",1983,66.965
+"Colombia",1984,67.315
+"Colombia",1985,67.588
+"Colombia",1986,67.789
+"Colombia",1987,67.938
+"Colombia",1988,68.06
+"Colombia",1989,68.171
+"Colombia",1990,68.292
+"Colombia",1991,68.443
+"Colombia",1992,68.63
+"Colombia",1993,68.857
+"Colombia",1994,69.125
+"Colombia",1995,69.428
+"Colombia",1996,69.756
+"Colombia",1997,70.09
+"Colombia",1998,70.416
+"Colombia",1999,70.727
+"Colombia",2000,71.019
+"Colombia",2001,71.293
+"Colombia",2002,71.556
+"Colombia",2003,71.813
+"Colombia",2004,72.062
+"Colombia",2005,72.303
+"Colombia",2006,72.532
+"Colombia",2007,72.749
+"Colombia",2008,72.952
+"Colombia",2009,73.143
+"Colombia",2010,73.325
+"Colombia",2011,73.5
+"Colombia",2012,73.673
+"Colombia",2013,73.847
+"Colombia",2014,74.022
+"Croatia",1981,70.34439
+"Croatia",1982,70.48268
+"Croatia",1983,70.27488
+"Croatia",1984,70.21854
+"Croatia",1985,70.8861
+"Croatia",1986,71.41902
+"Croatia",1987,71.47025
+"Croatia",1988,71.48829
+"Croatia",1989,71.84464
+"Croatia",1990,72.17049
+"Croatia",1991,72.18536
+"Croatia",1992,71.24146
+"Croatia",1993,71.52244
+"Croatia",1994,71.80341
+"Croatia",1995,72.08439
+"Croatia",1996,72.36536
+"Croatia",1997,72.49512
+"Croatia",1998,72.31707
+"Croatia",1999,72.64195
+"Croatia",2000,72.80781
+"Croatia",2001,74.51292
+"Croatia",2002,74.71732
+"Croatia",2003,74.6139
+"Croatia",2004,75.52024
+"Croatia",2005,75.24464
+"Croatia",2006,75.83683
+"Croatia",2007,75.70561
+"Croatia",2008,75.91219
+"Croatia",2009,76.16829
+"Croatia",2010,76.47561
+"Croatia",2011,76.77561
+"Croatia",2012,76.92439
+"Croatia",2013,77.12683
+"Croatia",2014,77.47805
+"Cyprus",1981,74.984
+"Cyprus",1982,75.174
+"Cyprus",1983,75.359
+"Cyprus",1984,75.541
+"Cyprus",1985,75.718
+"Cyprus",1986,75.892
+"Cyprus",1987,76.063
+"Cyprus",1988,76.23
+"Cyprus",1989,76.393
+"Cyprus",1990,76.554
+"Cyprus",1991,76.711
+"Cyprus",1992,76.865
+"Cyprus",1993,77.017
+"Cyprus",1994,77.166
+"Cyprus",1995,77.312
+"Cyprus",1996,77.456
+"Cyprus",1997,77.598
+"Cyprus",1998,77.738
+"Cyprus",1999,77.876
+"Cyprus",2000,78.01
+"Cyprus",2001,78.14
+"Cyprus",2002,78.264
+"Cyprus",2003,78.386
+"Cyprus",2004,78.506
+"Cyprus",2005,78.631
+"Cyprus",2006,78.764
+"Cyprus",2007,78.911
+"Cyprus",2008,79.071
+"Cyprus",2009,79.245
+"Cyprus",2010,79.43
+"Cyprus",2011,79.62
+"Cyprus",2012,79.81
+"Cyprus",2013,79.995
+"Cyprus",2014,80.173
+"Czech Rep.",1981,70.7222
+"Czech Rep.",1982,70.80781
+"Czech Rep.",1983,70.59146
+"Czech Rep.",1984,70.83756
+"Czech Rep.",1985,71.04634
+"Czech Rep.",1986,70.99731
+"Czech Rep.",1987,71.44561
+"Czech Rep.",1988,71.64146
+"Czech Rep.",1989,71.67561
+"Czech Rep.",1990,71.3839
+"Czech Rep.",1991,71.89829
+"Czech Rep.",1992,72.27171
+"Czech Rep.",1993,72.76781
+"Czech Rep.",1994,72.97268
+"Czech Rep.",1995,73.07487
+"Czech Rep.",1996,73.71464
+"Czech Rep.",1997,73.82487
+"Czech Rep.",1998,74.51463
+"Czech Rep.",1999,74.66829
+"Czech Rep.",2000,74.96829
+"Czech Rep.",2001,75.17317
+"Czech Rep.",2002,75.22195
+"Czech Rep.",2003,75.17073
+"Czech Rep.",2004,75.72195
+"Czech Rep.",2005,75.92439
+"Czech Rep.",2006,76.52439
+"Czech Rep.",2007,76.72439
+"Czech Rep.",2008,76.97561
+"Czech Rep.",2009,77.07805
+"Czech Rep.",2010,77.42439
+"Czech Rep.",2011,77.87317
+"Czech Rep.",2012,78.07561
+"Czech Rep.",2013,78.17561
+"Czech Rep.",2014,78.82439
+"Dominican Rep.",1981,63.38
+"Dominican Rep.",1982,63.803
+"Dominican Rep.",1983,64.247
+"Dominican Rep.",1984,64.714
+"Dominican Rep.",1985,65.207
+"Dominican Rep.",1986,65.728
+"Dominican Rep.",1987,66.267
+"Dominican Rep.",1988,66.812
+"Dominican Rep.",1989,67.352
+"Dominican Rep.",1990,67.866
+"Dominican Rep.",1991,68.335
+"Dominican Rep.",1992,68.749
+"Dominican Rep.",1993,69.103
+"Dominican Rep.",1994,69.397
+"Dominican Rep.",1995,69.637
+"Dominican Rep.",1996,69.837
+"Dominican Rep.",1997,70.017
+"Dominican Rep.",1998,70.193
+"Dominican Rep.",1999,70.374
+"Dominican Rep.",2000,70.568
+"Dominican Rep.",2001,70.775
+"Dominican Rep.",2002,70.99
+"Dominican Rep.",2003,71.207
+"Dominican Rep.",2004,71.425
+"Dominican Rep.",2005,71.644
+"Dominican Rep.",2006,71.862
+"Dominican Rep.",2007,72.078
+"Dominican Rep.",2008,72.29
+"Dominican Rep.",2009,72.498
+"Dominican Rep.",2010,72.702
+"Dominican Rep.",2011,72.901
+"Dominican Rep.",2012,73.098
+"Dominican Rep.",2013,73.292
+"Dominican Rep.",2014,73.483
+"Ecuador",1981,63.686
+"Ecuador",1982,64.286
+"Ecuador",1983,64.896
+"Ecuador",1984,65.511
+"Ecuador",1985,66.126
+"Ecuador",1986,66.735
+"Ecuador",1987,67.332
+"Ecuador",1988,67.91
+"Ecuador",1989,68.464
+"Ecuador",1990,68.99
+"Ecuador",1991,69.487
+"Ecuador",1992,69.956
+"Ecuador",1993,70.4
+"Ecuador",1994,70.82
+"Ecuador",1995,71.217
+"Ecuador",1996,71.594
+"Ecuador",1997,71.953
+"Ecuador",1998,72.297
+"Ecuador",1999,72.624
+"Ecuador",2000,72.933
+"Ecuador",2001,73.22
+"Ecuador",2002,73.482
+"Ecuador",2003,73.72
+"Ecuador",2004,73.937
+"Ecuador",2005,74.136
+"Ecuador",2006,74.322
+"Ecuador",2007,74.501
+"Ecuador",2008,74.678
+"Ecuador",2009,74.859
+"Ecuador",2010,75.046
+"Ecuador",2011,75.244
+"Ecuador",2012,75.449
+"Ecuador",2013,75.661
+"Ecuador",2014,75.879
+"Egypt",1981,59.001
+"Egypt",1982,59.677
+"Egypt",1983,60.378
+"Egypt",1984,61.097
+"Egypt",1985,61.812
+"Egypt",1986,62.494
+"Egypt",1987,63.117
+"Egypt",1988,63.669
+"Egypt",1989,64.151
+"Egypt",1990,64.58
+"Egypt",1991,64.987
+"Egypt",1992,65.401
+"Egypt",1993,65.84
+"Egypt",1994,66.308
+"Egypt",1995,66.789
+"Egypt",1996,67.259
+"Egypt",1997,67.69
+"Egypt",1998,68.061
+"Egypt",1999,68.368
+"Egypt",2000,68.613
+"Egypt",2001,68.807
+"Egypt",2002,68.972
+"Egypt",2003,69.127
+"Egypt",2004,69.282
+"Egypt",2005,69.444
+"Egypt",2006,69.618
+"Egypt",2007,69.797
+"Egypt",2008,69.98
+"Egypt",2009,70.167
+"Egypt",2010,70.357
+"Egypt",2011,70.55
+"Egypt",2012,70.742
+"Egypt",2013,70.933
+"Egypt",2014,71.12
+"El Salvador",1981,56.642
+"El Salvador",1982,57.042
+"El Salvador",1983,57.585
+"El Salvador",1984,58.267
+"El Salvador",1985,59.082
+"El Salvador",1986,60.011
+"El Salvador",1987,61.01
+"El Salvador",1988,62.032
+"El Salvador",1989,63.039
+"El Salvador",1990,63.99
+"El Salvador",1991,64.85
+"El Salvador",1992,65.609
+"El Salvador",1993,66.267
+"El Salvador",1994,66.818
+"El Salvador",1995,67.27
+"El Salvador",1996,67.64
+"El Salvador",1997,67.958
+"El Salvador",1998,68.253
+"El Salvador",1999,68.541
+"El Salvador",2000,68.834
+"El Salvador",2001,69.135
+"El Salvador",2002,69.44
+"El Salvador",2003,69.743
+"El Salvador",2004,70.048
+"El Salvador",2005,70.357
+"El Salvador",2006,70.668
+"El Salvador",2007,70.98
+"El Salvador",2008,71.291
+"El Salvador",2009,71.599
+"El Salvador",2010,71.902
+"El Salvador",2011,72.195
+"El Salvador",2012,72.479
+"El Salvador",2013,72.753
+"El Salvador",2014,73.015
+"Estonia",1981,68.97805
+"Estonia",1982,69.12683
+"Estonia",1983,69.37561
+"Estonia",1984,69.27805
+"Estonia",1985,69.38049
+"Estonia",1986,70.08537
+"Estonia",1987,70.64391
+"Estonia",1988,70.69756
+"Estonia",1989,70.03902
+"Estonia",1990,69.47561
+"Estonia",1991,69.37317
+"Estonia",1992,68.86341
+"Estonia",1993,67.90976
+"Estonia",1994,66.5
+"Estonia",1995,67.5439
+"Estonia",1996,69.6122
+"Estonia",1997,69.80975
+"Estonia",1998,69.35854
+"Estonia",1999,70.06342
+"Estonia",2000,70.41708
+"Estonia",2001,70.25854
+"Estonia",2002,70.90488
+"Estonia",2003,71.31707
+"Estonia",2004,71.90976
+"Estonia",2005,72.56829
+"Estonia",2006,72.69146
+"Estonia",2007,72.81464
+"Estonia",2008,73.77073
+"Estonia",2009,74.82439
+"Estonia",2010,75.42927
+"Estonia",2011,76.22927
+"Estonia",2012,76.32683
+"Estonia",2013,77.14146
+"Estonia",2014,77.03415
+"Ethiopia",1981,43.674
+"Ethiopia",1982,43.711
+"Ethiopia",1983,43.884
+"Ethiopia",1984,44.198
+"Ethiopia",1985,44.633
+"Ethiopia",1986,45.146
+"Ethiopia",1987,45.682
+"Ethiopia",1988,46.194
+"Ethiopia",1989,46.668
+"Ethiopia",1990,47.1
+"Ethiopia",1991,47.505
+"Ethiopia",1992,47.912
+"Ethiopia",1993,48.346
+"Ethiopia",1994,48.812
+"Ethiopia",1995,49.305
+"Ethiopia",1996,49.811
+"Ethiopia",1997,50.322
+"Ethiopia",1998,50.836
+"Ethiopia",1999,51.366
+"Ethiopia",2000,51.94
+"Ethiopia",2001,52.593
+"Ethiopia",2002,53.347
+"Ethiopia",2003,54.209
+"Ethiopia",2004,55.172
+"Ethiopia",2005,56.221
+"Ethiopia",2006,57.333
+"Ethiopia",2007,58.466
+"Ethiopia",2008,59.58
+"Ethiopia",2009,60.643
+"Ethiopia",2010,61.625
+"Ethiopia",2011,62.501
+"Ethiopia",2012,63.275
+"Ethiopia",2013,63.952
+"Ethiopia",2014,64.535
+"Finland",1981,73.74658
+"Finland",1982,74.29805
+"Finland",1983,74.20097
+"Finland",1984,74.51903
+"Finland",1985,74.22292
+"Finland",1986,74.56
+"Finland",1987,74.59195
+"Finland",1988,74.57707
+"Finland",1989,74.7922
+"Finland",1990,74.81317
+"Finland",1991,75.22756
+"Finland",1992,75.45537
+"Finland",1993,75.70512
+"Finland",1994,76.39561
+"Finland",1995,76.40952
+"Finland",1996,76.69341
+"Finland",1997,76.87854
+"Finland",1998,77.09073
+"Finland",1999,77.29122
+"Finland",2000,77.46585
+"Finland",2001,77.96585
+"Finland",2002,78.11951
+"Finland",2003,78.36829
+"Finland",2004,78.71464
+"Finland",2005,78.81707
+"Finland",2006,79.21464
+"Finland",2007,79.26341
+"Finland",2008,79.56829
+"Finland",2009,79.71951
+"Finland",2010,79.87074
+"Finland",2011,80.47073
+"Finland",2012,80.62683
+"Finland",2013,80.97561
+"Finland",2014,81.18049
+"France",1981,74.3
+"France",1982,74.5
+"France",1983,74.8
+"France",1984,75
+"France",1985,75.3
+"France",1986,75.6
+"France",1987,75.8
+"France",1988,76.1
+"France",1989,76.34878
+"France",1990,76.6
+"France",1991,76.84878
+"France",1992,77.1
+"France",1993,77.3
+"France",1994,77.64878
+"France",1995,77.75122
+"France",1996,77.95366
+"France",1997,78.30488
+"France",1998,78.60488
+"France",1999,78.7561
+"France",2000,79.0561
+"France",2001,79.15854
+"France",2002,79.26098
+"France",2003,79.11463
+"France",2004,80.16341
+"France",2005,80.16341
+"France",2006,80.81219
+"France",2007,81.1122
+"France",2008,81.21464
+"France",2009,81.41463
+"France",2010,81.66341
+"France",2011,82.11463
+"France",2012,81.96829
+"France",2013,82.21951
+"France",2014,82.67073
+"Georgia",1981,69.726
+"Georgia",1982,69.768
+"Georgia",1983,69.844
+"Georgia",1984,69.954
+"Georgia",1985,70.083
+"Georgia",1986,70.204
+"Georgia",1987,70.288
+"Georgia",1988,70.323
+"Georgia",1989,70.311
+"Georgia",1990,70.268
+"Georgia",1991,70.22
+"Georgia",1992,70.196
+"Georgia",1993,70.222
+"Georgia",1994,70.307
+"Georgia",1995,70.462
+"Georgia",1996,70.687
+"Georgia",1997,70.966
+"Georgia",1998,71.274
+"Georgia",1999,71.596
+"Georgia",2000,71.907
+"Georgia",2001,72.182
+"Georgia",2002,72.408
+"Georgia",2003,72.575
+"Georgia",2004,72.682
+"Georgia",2005,72.73
+"Georgia",2006,72.73
+"Georgia",2007,72.704
+"Georgia",2008,72.673
+"Georgia",2009,72.65
+"Georgia",2010,72.649
+"Georgia",2011,72.68
+"Georgia",2012,72.742
+"Georgia",2013,72.832
+"Georgia",2014,72.951
+"Germany",1981,72.95039
+"Germany",1982,73.227
+"Germany",1983,73.5052
+"Germany",1984,73.78293
+"Germany",1985,74.05463
+"Germany",1986,74.31373
+"Germany",1987,74.55968
+"Germany",1988,74.79249
+"Germany",1989,75.01315
+"Germany",1990,75.22775
+"Germany",1991,75.31951
+"Germany",1992,75.81951
+"Germany",1993,75.87074
+"Germany",1994,76.27073
+"Germany",1995,76.42195
+"Germany",1996,76.67317
+"Germany",1997,77.07317
+"Germany",1998,77.47561
+"Germany",1999,77.72683
+"Germany",2000,77.92683
+"Germany",2001,78.32927
+"Germany",2002,78.22927
+"Germany",2003,78.38049
+"Germany",2004,78.68049
+"Germany",2005,78.93171
+"Germany",2006,79.13171
+"Germany",2007,79.53415
+"Germany",2008,79.73659
+"Germany",2009,79.83659
+"Germany",2010,79.98781
+"Germany",2011,80.43658
+"Germany",2012,80.53902
+"Germany",2013,80.49024
+"Germany",2014,81.09024
+"Ghana",1981,52.575
+"Ghana",1982,52.907
+"Ghana",1983,53.272
+"Ghana",1984,53.67
+"Ghana",1985,54.111
+"Ghana",1986,54.605
+"Ghana",1987,55.14
+"Ghana",1988,55.697
+"Ghana",1989,56.251
+"Ghana",1990,56.755
+"Ghana",1991,57.16
+"Ghana",1992,57.439
+"Ghana",1993,57.583
+"Ghana",1994,57.598
+"Ghana",1995,57.507
+"Ghana",1996,57.347
+"Ghana",1997,57.171
+"Ghana",1998,57.032
+"Ghana",1999,56.962
+"Ghana",2000,56.994
+"Ghana",2001,57.147
+"Ghana",2002,57.41
+"Ghana",2003,57.761
+"Ghana",2004,58.187
+"Ghana",2005,58.666
+"Ghana",2006,59.167
+"Ghana",2007,59.663
+"Ghana",2008,60.128
+"Ghana",2009,60.55
+"Ghana",2010,60.924
+"Ghana",2011,61.254
+"Ghana",2012,61.561
+"Ghana",2013,61.86
+"Ghana",2014,62.154
+"Great Britain",1981,74.02683
+"Great Britain",1982,74.17805
+"Great Britain",1983,74.37805
+"Great Britain",1984,74.77805
+"Great Britain",1985,74.62926
+"Great Britain",1986,74.92927
+"Great Britain",1987,75.28049
+"Great Britain",1988,75.38049
+"Great Britain",1989,75.58292
+"Great Britain",1990,75.88049
+"Great Britain",1991,76.08292
+"Great Britain",1992,76.43414
+"Great Britain",1993,76.38537
+"Great Britain",1994,76.88537
+"Great Britain",1995,76.83659
+"Great Britain",1996,77.08781
+"Great Britain",1997,77.21098
+"Great Britain",1998,77.19025
+"Great Britain",1999,77.39024
+"Great Britain",2000,77.74146
+"Great Britain",2001,77.99268
+"Great Britain",2002,78.14391
+"Great Britain",2003,78.44634
+"Great Britain",2004,78.74634
+"Great Britain",2005,79.04878
+"Great Britain",2006,79.24878
+"Great Britain",2007,79.44878
+"Great Britain",2008,79.6
+"Great Britain",2009,80.05122
+"Great Britain",2010,80.40244
+"Great Britain",2011,80.95122
+"Great Britain",2012,80.90488
+"Great Britain",2013,81.00488
+"Great Britain",2014,81.30488
+"Guatemala",1981,57.719
+"Guatemala",1982,58.183
+"Guatemala",1983,58.661
+"Guatemala",1984,59.154
+"Guatemala",1985,59.661
+"Guatemala",1986,60.176
+"Guatemala",1987,60.694
+"Guatemala",1988,61.214
+"Guatemala",1989,61.735
+"Guatemala",1990,62.261
+"Guatemala",1991,62.799
+"Guatemala",1992,63.352
+"Guatemala",1993,63.921
+"Guatemala",1994,64.502
+"Guatemala",1995,65.09
+"Guatemala",1996,65.678
+"Guatemala",1997,66.257
+"Guatemala",1998,66.817
+"Guatemala",1999,67.351
+"Guatemala",2000,67.849
+"Guatemala",2001,68.304
+"Guatemala",2002,68.717
+"Guatemala",2003,69.092
+"Guatemala",2004,69.437
+"Guatemala",2005,69.763
+"Guatemala",2006,70.085
+"Guatemala",2007,70.415
+"Guatemala",2008,70.76
+"Guatemala",2009,71.122
+"Guatemala",2010,71.494
+"Guatemala",2011,71.867
+"Guatemala",2012,72.227
+"Guatemala",2013,72.562
+"Guatemala",2014,72.869
+"Hong Kong",1981,75.32439
+"Hong Kong",1982,75.42927
+"Hong Kong",1983,75.27561
+"Hong Kong",1984,76.02927
+"Hong Kong",1985,76.43414
+"Hong Kong",1986,76.68536
+"Hong Kong",1987,76.88293
+"Hong Kong",1988,77.08292
+"Hong Kong",1989,77.02927
+"Hong Kong",1990,77.38049
+"Hong Kong",1991,77.88293
+"Hong Kong",1992,77.67805
+"Hong Kong",1993,78.03171
+"Hong Kong",1994,78.52927
+"Hong Kong",1995,78.68293
+"Hong Kong",1996,79.62683
+"Hong Kong",1997,80.12683
+"Hong Kong",1998,80.13171
+"Hong Kong",1999,80.38293
+"Hong Kong",2000,80.87805
+"Hong Kong",2001,81.42439
+"Hong Kong",2002,81.42683
+"Hong Kong",2003,81.37805
+"Hong Kong",2004,81.82927
+"Hong Kong",2005,81.62926
+"Hong Kong",2006,82.37561
+"Hong Kong",2007,82.32683
+"Hong Kong",2008,82.37561
+"Hong Kong",2009,82.77561
+"Hong Kong",2010,82.97805
+"Hong Kong",2011,83.42195
+"Hong Kong",2012,83.48048
+"Hong Kong",2013,83.83171
+"Hong Kong",2014,83.98048
+"Hungary",1981,69.13927
+"Hungary",1982,69.3578
+"Hungary",1983,68.97366
+"Hungary",1984,69.02586
+"Hungary",1985,68.9722
+"Hungary",1986,69.17342
+"Hungary",1987,69.65122
+"Hungary",1988,70.02341
+"Hungary",1989,69.46171
+"Hungary",1990,69.31561
+"Hungary",1991,69.37708
+"Hungary",1992,69.11707
+"Hungary",1993,69.10122
+"Hungary",1994,69.46976
+"Hungary",1995,69.79171
+"Hungary",1996,70.32878
+"Hungary",1997,70.70244
+"Hungary",1998,70.55781
+"Hungary",1999,70.67707
+"Hungary",2000,71.24634
+"Hungary",2001,72.24878
+"Hungary",2002,72.34878
+"Hungary",2003,72.3
+"Hungary",2004,72.64878
+"Hungary",2005,72.64878
+"Hungary",2006,73.09756
+"Hungary",2007,73.15122
+"Hungary",2008,73.70244
+"Hungary",2009,73.90488
+"Hungary",2010,74.20731
+"Hungary",2011,74.85854
+"Hungary",2012,75.06342
+"Hungary",2013,75.56586
+"Hungary",2014,75.76341
+"India",1981,54.295
+"India",1982,54.711
+"India",1983,55.099
+"India",1984,55.468
+"India",1985,55.83
+"India",1986,56.201
+"India",1987,56.589
+"India",1988,57.003
+"India",1989,57.445
+"India",1990,57.915
+"India",1991,58.409
+"India",1992,58.915
+"India",1993,59.421
+"India",1994,59.921
+"India",1995,60.408
+"India",1996,60.877
+"India",1997,61.327
+"India",1998,61.761
+"India",1999,62.179
+"India",2000,62.582
+"India",2001,62.977
+"India",2002,63.368
+"India",2003,63.759
+"India",2004,64.154
+"India",2005,64.556
+"India",2006,64.966
+"India",2007,65.383
+"India",2008,65.802
+"India",2009,66.219
+"India",2010,66.625
+"India",2011,67.013
+"India",2012,67.377
+"India",2013,67.714
+"India",2014,68.021
+"Indonesia",1981,60.045
+"Indonesia",1982,60.451
+"Indonesia",1983,60.836
+"Indonesia",1984,61.203
+"Indonesia",1985,61.555
+"Indonesia",1986,61.899
+"Indonesia",1987,62.241
+"Indonesia",1988,62.583
+"Indonesia",1989,62.929
+"Indonesia",1990,63.281
+"Indonesia",1991,63.638
+"Indonesia",1992,63.998
+"Indonesia",1993,64.353
+"Indonesia",1994,64.701
+"Indonesia",1995,65.032
+"Indonesia",1996,65.339
+"Indonesia",1997,65.617
+"Indonesia",1998,65.866
+"Indonesia",1999,66.087
+"Indonesia",2000,66.285
+"Indonesia",2001,66.467
+"Indonesia",2002,66.643
+"Indonesia",2003,66.82
+"Indonesia",2004,67.002
+"Indonesia",2005,67.191
+"Indonesia",2006,67.386
+"Indonesia",2007,67.581
+"Indonesia",2008,67.775
+"Indonesia",2009,67.964
+"Indonesia",2010,68.15
+"Indonesia",2011,68.331
+"Indonesia",2012,68.509
+"Indonesia",2013,68.684
+"Indonesia",2014,68.856
+"Iran",1981,53.452
+"Iran",1982,53.128
+"Iran",1983,53.293
+"Iran",1984,53.995
+"Iran",1985,55.213
+"Iran",1986,56.846
+"Iran",1987,58.683
+"Iran",1988,60.528
+"Iran",1989,62.275
+"Iran",1990,63.828
+"Iran",1991,65.131
+"Iran",1992,66.209
+"Iran",1993,67.094
+"Iran",1994,67.791
+"Iran",1995,68.326
+"Iran",1996,68.741
+"Iran",1997,69.092
+"Iran",1998,69.428
+"Iran",1999,69.775
+"Iran",2000,70.144
+"Iran",2001,70.526
+"Iran",2002,70.899
+"Iran",2003,71.249
+"Iran",2004,71.582
+"Iran",2005,71.912
+"Iran",2006,72.259
+"Iran",2007,72.635
+"Iran",2008,73.044
+"Iran",2009,73.481
+"Iran",2010,73.932
+"Iran",2011,74.375
+"Iran",2012,74.787
+"Iran",2013,75.153
+"Iran",2014,75.466
+"Iraq",1981,59.766
+"Iraq",1982,59.647
+"Iraq",1983,59.85
+"Iraq",1984,60.393
+"Iraq",1985,61.236
+"Iraq",1986,62.285
+"Iraq",1987,63.393
+"Iraq",1988,64.436
+"Iraq",1989,65.354
+"Iraq",1990,66.118
+"Iraq",1991,66.735
+"Iraq",1992,67.256
+"Iraq",1993,67.722
+"Iraq",1994,68.134
+"Iraq",1995,68.489
+"Iraq",1996,68.776
+"Iraq",1997,68.987
+"Iraq",1998,69.122
+"Iraq",1999,69.183
+"Iraq",2000,69.169
+"Iraq",2001,69.081
+"Iraq",2002,68.932
+"Iraq",2003,68.742
+"Iraq",2004,68.537
+"Iraq",2005,68.35
+"Iraq",2006,68.217
+"Iraq",2007,68.156
+"Iraq",2008,68.177
+"Iraq",2009,68.283
+"Iraq",2010,68.465
+"Iraq",2011,68.702
+"Iraq",2012,68.963
+"Iraq",2013,69.219
+"Iraq",2014,69.458
+"Israel",1981,74.26098
+"Israel",1982,74.10976
+"Israel",1983,74.45853
+"Israel",1984,74.80732
+"Israel",1985,75.20731
+"Israel",1986,74.9561
+"Israel",1987,75.25854
+"Israel",1988,74.43658
+"Israel",1989,76.30732
+"Israel",1990,76.60732
+"Israel",1991,76.75854
+"Israel",1992,76.50488
+"Israel",1993,77.15366
+"Israel",1994,77.40244
+"Israel",1995,77.45122
+"Israel",1996,78.10488
+"Israel",1997,78
+"Israel",1998,78.14878
+"Israel",1999,78.65854
+"Israel",2000,78.95366
+"Israel",2001,79.40732
+"Israel",2002,79.45122
+"Israel",2003,79.64878
+"Israel",2004,80.14634
+"Israel",2005,80.15122
+"Israel",2006,80.55366
+"Israel",2007,80.50488
+"Israel",2008,80.95122
+"Israel",2009,81.40488
+"Israel",2010,81.60244
+"Israel",2011,81.6561
+"Israel",2012,81.70488
+"Israel",2013,82.0561
+"Israel",2014,82.15366
+"Italy",1981,74.3539
+"Italy",1982,74.81464
+"Italy",1983,74.64024
+"Italy",1984,75.38951
+"Italy",1985,75.47073
+"Italy",1986,75.77073
+"Italy",1987,76.21951
+"Italy",1988,76.37074
+"Italy",1989,76.81951
+"Italy",1990,76.97073
+"Italy",1991,77.01952
+"Italy",1992,77.41951
+"Italy",1993,77.72195
+"Italy",1994,77.92195
+"Italy",1995,78.17073
+"Italy",1996,78.52195
+"Italy",1997,78.82439
+"Italy",1998,78.97561
+"Italy",1999,79.42439
+"Italy",2000,79.77805
+"Italy",2001,80.12683
+"Italy",2002,80.22927
+"Italy",2003,79.98293
+"Italy",2004,80.78049
+"Italy",2005,80.78293
+"Italy",2006,81.28293
+"Italy",2007,81.43414
+"Italy",2008,81.48537
+"Italy",2009,81.63659
+"Italy",2010,82.03658
+"Italy",2011,82.18781
+"Italy",2012,82.23902
+"Italy",2013,82.69025
+"Italy",2014,83.09024
+"Japan",1981,76.41439
+"Japan",1982,76.92293
+"Japan",1983,76.96146
+"Japan",1984,77.36536
+"Japan",1985,77.65049
+"Japan",1986,78.06464
+"Japan",1987,78.48366
+"Japan",1988,78.39927
+"Japan",1989,78.81805
+"Japan",1990,78.83683
+"Japan",1991,79.10073
+"Japan",1992,79.1539
+"Japan",1993,79.29366
+"Japan",1994,79.68707
+"Japan",1995,79.53634
+"Japan",1996,80.20024
+"Japan",1997,80.42415
+"Japan",1998,80.50146
+"Japan",1999,80.57073
+"Japan",2000,81.0761
+"Japan",2001,81.41708
+"Japan",2002,81.56342
+"Japan",2003,81.76
+"Japan",2004,82.03024
+"Japan",2005,81.92513
+"Japan",2006,82.32195
+"Japan",2007,82.50707
+"Japan",2008,82.58756
+"Japan",2009,82.93147
+"Japan",2010,82.84268
+"Japan",2011,82.59122
+"Japan",2012,83.0961
+"Japan",2013,83.33195
+"Japan",2014,83.58781
+"Jordan",1981,66.656
+"Jordan",1982,67.086
+"Jordan",1983,67.5
+"Jordan",1984,67.899
+"Jordan",1985,68.283
+"Jordan",1986,68.649
+"Jordan",1987,68.992
+"Jordan",1988,69.311
+"Jordan",1989,69.604
+"Jordan",1990,69.872
+"Jordan",1991,70.113
+"Jordan",1992,70.331
+"Jordan",1993,70.529
+"Jordan",1994,70.712
+"Jordan",1995,70.885
+"Jordan",1996,71.053
+"Jordan",1997,71.219
+"Jordan",1998,71.386
+"Jordan",1999,71.556
+"Jordan",2000,71.73
+"Jordan",2001,71.907
+"Jordan",2002,72.083
+"Jordan",2003,72.256
+"Jordan",2004,72.427
+"Jordan",2005,72.594
+"Jordan",2006,72.76
+"Jordan",2007,72.924
+"Jordan",2008,73.087
+"Jordan",2009,73.25
+"Jordan",2010,73.412
+"Jordan",2011,73.571
+"Jordan",2012,73.729
+"Jordan",2013,73.883
+"Jordan",2014,74.034
+"Kazakhstan",1981,66.7061
+"Kazakhstan",1982,66.7878
+"Kazakhstan",1983,67.66219
+"Kazakhstan",1984,68.53658
+"Kazakhstan",1985,68.53658
+"Kazakhstan",1986,68.91341
+"Kazakhstan",1987,69.29025
+"Kazakhstan",1988,68.84878
+"Kazakhstan",1989,68.29025
+"Kazakhstan",1990,68.33659
+"Kazakhstan",1991,67.98293
+"Kazakhstan",1992,67.7317
+"Kazakhstan",1993,66.72683
+"Kazakhstan",1994,65.67317
+"Kazakhstan",1995,64.91951
+"Kazakhstan",1996,64.10976
+"Kazakhstan",1997,64.46342
+"Kazakhstan",1998,64.56097
+"Kazakhstan",1999,65.51952
+"Kazakhstan",2000,65.51707
+"Kazakhstan",2001,65.7683
+"Kazakhstan",2002,65.96829
+"Kazakhstan",2003,65.86585
+"Kazakhstan",2004,65.8878
+"Kazakhstan",2005,65.90976
+"Kazakhstan",2006,66.16097
+"Kazakhstan",2007,66.50488
+"Kazakhstan",2008,67.02195
+"Kazakhstan",2009,68.42927
+"Kazakhstan",2010,68.29536
+"Kazakhstan",2011,68.98
+"Kazakhstan",2012,69.61
+"Kazakhstan",2013,70.45
+"Kazakhstan",2014,71.62
+"Kuwait",1981,69.878
+"Kuwait",1982,70.178
+"Kuwait",1983,70.47
+"Kuwait",1984,70.752
+"Kuwait",1985,71.021
+"Kuwait",1986,71.273
+"Kuwait",1987,71.505
+"Kuwait",1988,71.717
+"Kuwait",1989,71.908
+"Kuwait",1990,72.079
+"Kuwait",1991,72.232
+"Kuwait",1992,72.369
+"Kuwait",1993,72.496
+"Kuwait",1994,72.613
+"Kuwait",1995,72.722
+"Kuwait",1996,72.824
+"Kuwait",1997,72.917
+"Kuwait",1998,73.004
+"Kuwait",1999,73.084
+"Kuwait",2000,73.16
+"Kuwait",2001,73.232
+"Kuwait",2002,73.3
+"Kuwait",2003,73.367
+"Kuwait",2004,73.434
+"Kuwait",2005,73.505
+"Kuwait",2006,73.584
+"Kuwait",2007,73.67
+"Kuwait",2008,73.764
+"Kuwait",2009,73.868
+"Kuwait",2010,73.979
+"Kuwait",2011,74.096
+"Kuwait",2012,74.217
+"Kuwait",2013,74.338
+"Kuwait",2014,74.458
+"Kyrgyzstan",1981,63.26363
+"Kyrgyzstan",1982,63.65888
+"Kyrgyzstan",1983,64.07751
+"Kyrgyzstan",1984,64.50493
+"Kyrgyzstan",1985,64.91895
+"Kyrgyzstan",1986,65.29378
+"Kyrgyzstan",1987,65.6112
+"Kyrgyzstan",1988,65.85859
+"Kyrgyzstan",1989,67.90732
+"Kyrgyzstan",1990,68.29756
+"Kyrgyzstan",1991,68.55122
+"Kyrgyzstan",1992,68.10244
+"Kyrgyzstan",1993,67.19268
+"Kyrgyzstan",1994,66.03902
+"Kyrgyzstan",1995,65.79025
+"Kyrgyzstan",1996,66.5439
+"Kyrgyzstan",1997,66.89268
+"Kyrgyzstan",1998,67.05122
+"Kyrgyzstan",1999,68.6561
+"Kyrgyzstan",2000,68.55854
+"Kyrgyzstan",2001,68.70731
+"Kyrgyzstan",2002,68.1561
+"Kyrgyzstan",2003,68.2561
+"Kyrgyzstan",2004,68.15366
+"Kyrgyzstan",2005,67.9561
+"Kyrgyzstan",2006,67.69512
+"Kyrgyzstan",2007,67.89512
+"Kyrgyzstan",2008,68.45122
+"Kyrgyzstan",2009,69.10244
+"Kyrgyzstan",2010,69.3
+"Kyrgyzstan",2011,69.60244
+"Kyrgyzstan",2012,70.00244
+"Kyrgyzstan",2013,70.20244
+"Kyrgyzstan",2014,70.40244
+"Latvia",1981,68.78634
+"Latvia",1982,69.32829
+"Latvia",1983,69.11903
+"Latvia",1984,69.16293
+"Latvia",1985,69.29147
+"Latvia",1986,70.62244
+"Latvia",1987,70.69292
+"Latvia",1988,70.61536
+"Latvia",1989,70.15536
+"Latvia",1990,69.27317
+"Latvia",1991,69.03244
+"Latvia",1992,68.3961
+"Latvia",1993,66.72268
+"Latvia",1994,65.66439
+"Latvia",1995,66.39122
+"Latvia",1996,68.77659
+"Latvia",1997,69.34927
+"Latvia",1998,69.01219
+"Latvia",1999,69.74293
+"Latvia",2000,70.31464
+"Latvia",2001,70.76098
+"Latvia",2002,70.96098
+"Latvia",2003,71.26585
+"Latvia",2004,72.02683
+"Latvia",2005,71.35609
+"Latvia",2006,70.86585
+"Latvia",2007,71.01952
+"Latvia",2008,72.41951
+"Latvia",2009,73.08049
+"Latvia",2010,73.48293
+"Latvia",2011,73.57561
+"Latvia",2012,73.77805
+"Latvia",2013,73.98293
+"Latvia",2014,74.12439
+"Lebanon",1981,68.115
+"Lebanon",1982,68.287
+"Lebanon",1983,68.475
+"Lebanon",1984,68.681
+"Lebanon",1985,68.904
+"Lebanon",1986,69.143
+"Lebanon",1987,69.394
+"Lebanon",1988,69.656
+"Lebanon",1989,69.93
+"Lebanon",1990,70.222
+"Lebanon",1991,70.537
+"Lebanon",1992,70.878
+"Lebanon",1993,71.248
+"Lebanon",1994,71.646
+"Lebanon",1995,72.071
+"Lebanon",1996,72.522
+"Lebanon",1997,72.991
+"Lebanon",1998,73.473
+"Lebanon",1999,73.959
+"Lebanon",2000,74.447
+"Lebanon",2001,74.934
+"Lebanon",2002,75.418
+"Lebanon",2003,75.892
+"Lebanon",2004,76.351
+"Lebanon",2005,76.786
+"Lebanon",2006,77.187
+"Lebanon",2007,77.553
+"Lebanon",2008,77.881
+"Lebanon",2009,78.173
+"Lebanon",2010,78.43
+"Lebanon",2011,78.656
+"Lebanon",2012,78.86
+"Lebanon",2013,79.05
+"Lebanon",2014,79.231
+"Libya",1981,64.771
+"Libya",1982,65.306
+"Libya",1983,65.793
+"Libya",1984,66.235
+"Libya",1985,66.644
+"Libya",1986,67.034
+"Libya",1987,67.413
+"Libya",1988,67.789
+"Libya",1989,68.16
+"Libya",1990,68.522
+"Libya",1991,68.864
+"Libya",1992,69.172
+"Libya",1993,69.439
+"Libya",1994,69.664
+"Libya",1995,69.85
+"Libya",1996,70
+"Libya",1997,70.127
+"Libya",1998,70.241
+"Libya",1999,70.352
+"Libya",2000,70.473
+"Libya",2001,70.616
+"Libya",2002,70.783
+"Libya",2003,70.97
+"Libya",2004,71.17
+"Libya",2005,71.362
+"Libya",2006,71.521
+"Libya",2007,71.629
+"Libya",2008,71.681
+"Libya",2009,71.679
+"Libya",2010,71.643
+"Libya",2011,71.598
+"Libya",2012,71.574
+"Libya",2013,71.592
+"Libya",2014,71.659
+"Lithuania",1981,70.46073
+"Lithuania",1982,70.83683
+"Lithuania",1983,70.7778
+"Lithuania",1984,70.32
+"Lithuania",1985,70.50122
+"Lithuania",1986,72.08073
+"Lithuania",1987,71.93463
+"Lithuania",1988,71.76219
+"Lithuania",1989,71.42537
+"Lithuania",1990,71.16073
+"Lithuania",1991,70.36414
+"Lithuania",1992,70.23439
+"Lithuania",1993,68.91048
+"Lithuania",1994,68.53024
+"Lithuania",1995,69.00634
+"Lithuania",1996,70.10805
+"Lithuania",1997,70.90903
+"Lithuania",1998,71.21951
+"Lithuania",1999,71.57073
+"Lithuania",2000,72.01952
+"Lithuania",2001,71.65854
+"Lithuania",2002,71.76098
+"Lithuania",2003,72.06097
+"Lithuania",2004,71.96098
+"Lithuania",2005,71.25366
+"Lithuania",2006,71.0561
+"Lithuania",2007,70.9
+"Lithuania",2008,71.81219
+"Lithuania",2009,72.91463
+"Lithuania",2010,73.2683
+"Lithuania",2011,73.56342
+"Lithuania",2012,73.86341
+"Lithuania",2013,73.91463
+"Lithuania",2014,74.51707
+"Macedonia",1981,68.764
+"Macedonia",1982,68.936
+"Macedonia",1983,69.162
+"Macedonia",1984,69.442
+"Macedonia",1985,69.76
+"Macedonia",1986,70.094
+"Macedonia",1987,70.414
+"Macedonia",1988,70.7
+"Macedonia",1989,70.945
+"Macedonia",1990,71.152
+"Macedonia",1991,71.331
+"Macedonia",1992,71.502
+"Macedonia",1993,71.68
+"Macedonia",1994,71.871
+"Macedonia",1995,72.08
+"Macedonia",1996,72.309
+"Macedonia",1997,72.55
+"Macedonia",1998,72.795
+"Macedonia",1999,73.038
+"Macedonia",2000,73.267
+"Macedonia",2001,73.47
+"Macedonia",2002,73.642
+"Macedonia",2003,73.782
+"Macedonia",2004,73.893
+"Macedonia",2005,73.986
+"Macedonia",2006,74.077
+"Macedonia",2007,74.18
+"Macedonia",2008,74.305
+"Macedonia",2009,74.457
+"Macedonia",2010,74.632
+"Macedonia",2011,74.824
+"Macedonia",2012,75.019
+"Macedonia",2013,75.207
+"Macedonia",2014,75.384
+"Malaysia",1981,68.348
+"Malaysia",1982,68.643
+"Malaysia",1983,68.93
+"Malaysia",1984,69.21
+"Malaysia",1985,69.482
+"Malaysia",1986,69.746
+"Malaysia",1987,70.002
+"Malaysia",1988,70.251
+"Malaysia",1989,70.492
+"Malaysia",1990,70.727
+"Malaysia",1991,70.955
+"Malaysia",1992,71.177
+"Malaysia",1993,71.394
+"Malaysia",1994,71.605
+"Malaysia",1995,71.813
+"Malaysia",1996,72.019
+"Malaysia",1997,72.222
+"Malaysia",1998,72.422
+"Malaysia",1999,72.616
+"Malaysia",2000,72.8
+"Malaysia",2001,72.966
+"Malaysia",2002,73.113
+"Malaysia",2003,73.242
+"Malaysia",2004,73.356
+"Malaysia",2005,73.463
+"Malaysia",2006,73.577
+"Malaysia",2007,73.704
+"Malaysia",2008,73.852
+"Malaysia",2009,74.022
+"Malaysia",2010,74.21
+"Malaysia",2011,74.408
+"Malaysia",2012,74.606
+"Malaysia",2013,74.797
+"Malaysia",2014,74.976
+"Mali",1981,40.435
+"Mali",1982,41.173
+"Mali",1983,41.879
+"Mali",1984,42.545
+"Mali",1985,43.17
+"Mali",1986,43.759
+"Mali",1987,44.315
+"Mali",1988,44.838
+"Mali",1989,45.323
+"Mali",1990,45.746
+"Mali",1991,46.076
+"Mali",1992,46.305
+"Mali",1993,46.445
+"Mali",1994,46.52
+"Mali",1995,46.573
+"Mali",1996,46.658
+"Mali",1997,46.823
+"Mali",1998,47.103
+"Mali",1999,47.515
+"Mali",2000,48.069
+"Mali",2001,48.758
+"Mali",2002,49.54
+"Mali",2003,50.373
+"Mali",2004,51.224
+"Mali",2005,52.057
+"Mali",2006,52.839
+"Mali",2007,53.553
+"Mali",2008,54.193
+"Mali",2009,54.756
+"Mali",2010,55.249
+"Mali",2011,55.694
+"Mali",2012,56.122
+"Mali",2013,56.556
+"Mali",2014,57.007
+"Mexico",1981,67.04
+"Mexico",1982,67.501
+"Mexico",1983,67.949
+"Mexico",1984,68.385
+"Mexico",1985,68.81
+"Mexico",1986,69.226
+"Mexico",1987,69.635
+"Mexico",1988,70.039
+"Mexico",1989,70.438
+"Mexico",1990,70.836
+"Mexico",1991,71.235
+"Mexico",1992,71.633
+"Mexico",1993,72.029
+"Mexico",1994,72.418
+"Mexico",1995,72.796
+"Mexico",1996,73.158
+"Mexico",1997,73.498
+"Mexico",1998,73.814
+"Mexico",1999,74.103
+"Mexico",2000,74.364
+"Mexico",2001,74.598
+"Mexico",2002,74.809
+"Mexico",2003,75.002
+"Mexico",2004,75.18
+"Mexico",2005,75.347
+"Mexico",2006,75.505
+"Mexico",2007,75.656
+"Mexico",2008,75.802
+"Mexico",2009,75.948
+"Mexico",2010,76.096
+"Mexico",2011,76.251
+"Mexico",2012,76.412
+"Mexico",2013,76.579
+"Mexico",2014,76.753
+"Moldova",1981,65.022
+"Moldova",1982,65.205
+"Moldova",1983,65.499
+"Moldova",1984,65.887
+"Moldova",1985,66.33
+"Moldova",1986,66.772
+"Moldova",1987,67.156
+"Moldova",1988,67.44
+"Moldova",1989,67.605
+"Moldova",1990,67.643
+"Moldova",1991,67.563
+"Moldova",1992,67.408
+"Moldova",1993,67.221
+"Moldova",1994,67.03
+"Moldova",1995,66.867
+"Moldova",1996,66.761
+"Moldova",1997,66.722
+"Moldova",1998,66.752
+"Moldova",1999,66.852
+"Moldova",2000,67.006
+"Moldova",2001,67.185
+"Moldova",2002,67.362
+"Moldova",2003,67.521
+"Moldova",2004,67.665
+"Moldova",2005,67.82
+"Moldova",2006,68.022
+"Moldova",2007,68.302
+"Moldova",2008,68.671
+"Moldova",2009,69.119
+"Moldova",2010,69.616
+"Moldova",2011,70.117
+"Moldova",2012,70.577
+"Moldova",2013,70.961
+"Moldova",2014,71.258
+"Montenegro",1981,73.334
+"Montenegro",1982,73.524
+"Montenegro",1983,73.693
+"Montenegro",1984,73.843
+"Montenegro",1985,73.981
+"Montenegro",1986,74.116
+"Montenegro",1987,74.255
+"Montenegro",1988,74.394
+"Montenegro",1989,74.526
+"Montenegro",1990,74.627
+"Montenegro",1991,74.669
+"Montenegro",1992,74.634
+"Montenegro",1993,74.52
+"Montenegro",1994,74.334
+"Montenegro",1995,74.1
+"Montenegro",1996,73.846
+"Montenegro",1997,73.608
+"Montenegro",1998,73.417
+"Montenegro",1999,73.288
+"Montenegro",2000,73.228
+"Montenegro",2001,73.23
+"Montenegro",2002,73.277
+"Montenegro",2003,73.355
+"Montenegro",2004,73.465
+"Montenegro",2005,73.62
+"Montenegro",2006,73.834
+"Montenegro",2007,74.116
+"Montenegro",2008,74.462
+"Montenegro",2009,74.858
+"Montenegro",2010,75.28
+"Montenegro",2011,75.7
+"Montenegro",2012,76.089
+"Montenegro",2013,76.43
+"Montenegro",2014,76.712
+"Morocco",1981,58.339
+"Morocco",1982,59.139
+"Morocco",1983,59.937
+"Morocco",1984,60.717
+"Morocco",1985,61.469
+"Morocco",1986,62.189
+"Morocco",1987,62.878
+"Morocco",1988,63.536
+"Morocco",1989,64.158
+"Morocco",1990,64.733
+"Morocco",1991,65.253
+"Morocco",1992,65.716
+"Morocco",1993,66.129
+"Morocco",1994,66.502
+"Morocco",1995,66.848
+"Morocco",1996,67.184
+"Morocco",1997,67.526
+"Morocco",1998,67.889
+"Morocco",1999,68.284
+"Morocco",2000,68.722
+"Morocco",2001,69.209
+"Morocco",2002,69.738
+"Morocco",2003,70.296
+"Morocco",2004,70.873
+"Morocco",2005,71.456
+"Morocco",2006,72.029
+"Morocco",2007,72.58
+"Morocco",2008,73.097
+"Morocco",2009,73.572
+"Morocco",2010,73.999
+"Morocco",2011,74.377
+"Morocco",2012,74.717
+"Morocco",2013,75.026
+"Morocco",2014,75.309
+"Netherlands",1981,75.93439
+"Netherlands",1982,75.98853
+"Netherlands",1983,76.16415
+"Netherlands",1984,76.23317
+"Netherlands",1985,76.28464
+"Netherlands",1986,76.27048
+"Netherlands",1987,76.70512
+"Netherlands",1988,76.89024
+"Netherlands",1989,76.73415
+"Netherlands",1990,76.87805
+"Netherlands",1991,77
+"Netherlands",1992,77.21707
+"Netherlands",1993,76.91659
+"Netherlands",1994,77.37512
+"Netherlands",1995,77.40463
+"Netherlands",1996,77.43561
+"Netherlands",1997,77.79439
+"Netherlands",1998,77.88293
+"Netherlands",1999,77.83659
+"Netherlands",2000,77.98781
+"Netherlands",2001,78.19025
+"Netherlands",2002,78.29269
+"Netherlands",2003,78.49268
+"Netherlands",2004,79.09512
+"Netherlands",2005,79.34634
+"Netherlands",2006,79.69756
+"Netherlands",2007,80.09756
+"Netherlands",2008,80.25122
+"Netherlands",2009,80.54878
+"Netherlands",2010,80.70244
+"Netherlands",2011,81.20488
+"Netherlands",2012,81.10488
+"Netherlands",2013,81.30488
+"Netherlands",2014,81.70731
+"New Zealand",1981,73.62195
+"New Zealand",1982,73.72439
+"New Zealand",1983,73.77561
+"New Zealand",1984,74.37074
+"New Zealand",1985,73.82927
+"New Zealand",1986,74.12195
+"New Zealand",1987,74.17805
+"New Zealand",1988,74.42439
+"New Zealand",1989,74.82439
+"New Zealand",1990,75.37805
+"New Zealand",1991,76.03171
+"New Zealand",1992,76.12439
+"New Zealand",1993,76.43414
+"New Zealand",1994,76.88293
+"New Zealand",1995,76.73415
+"New Zealand",1996,76.7878
+"New Zealand",1997,77.33414
+"New Zealand",1998,78.08537
+"New Zealand",1999,77.89024
+"New Zealand",2000,78.63659
+"New Zealand",2001,78.69268
+"New Zealand",2002,78.84634
+"New Zealand",2003,79.14634
+"New Zealand",2004,79.54878
+"New Zealand",2005,79.85122
+"New Zealand",2006,80.04878
+"New Zealand",2007,80.15122
+"New Zealand",2008,80.35122
+"New Zealand",2009,80.70244
+"New Zealand",2010,80.70244
+"New Zealand",2011,80.90488
+"New Zealand",2012,81.1561
+"New Zealand",2013,81.40732
+"New Zealand",2014,81.40488
+"Nigeria",1981,45.635
+"Nigeria",1982,45.866
+"Nigeria",1983,46.021
+"Nigeria",1984,46.104
+"Nigeria",1985,46.125
+"Nigeria",1986,46.099
+"Nigeria",1987,46.046
+"Nigeria",1988,45.988
+"Nigeria",1989,45.937
+"Nigeria",1990,45.898
+"Nigeria",1991,45.873
+"Nigeria",1992,45.855
+"Nigeria",1993,45.843
+"Nigeria",1994,45.841
+"Nigeria",1995,45.852
+"Nigeria",1996,45.877
+"Nigeria",1997,45.921
+"Nigeria",1998,45.992
+"Nigeria",1999,46.101
+"Nigeria",2000,46.266
+"Nigeria",2001,46.509
+"Nigeria",2002,46.834
+"Nigeria",2003,47.24
+"Nigeria",2004,47.717
+"Nigeria",2005,48.246
+"Nigeria",2006,48.802
+"Nigeria",2007,49.356
+"Nigeria",2008,49.887
+"Nigeria",2009,50.385
+"Nigeria",2010,50.847
+"Nigeria",2011,51.279
+"Nigeria",2012,51.699
+"Nigeria",2013,52.121
+"Nigeria",2014,52.549
+"Norway",1981,75.86903
+"Norway",1982,76.01098
+"Norway",1983,76.06683
+"Norway",1984,76.22439
+"Norway",1985,75.91683
+"Norway",1986,76.24122
+"Norway",1987,76.08171
+"Norway",1988,76.22049
+"Norway",1989,76.50049
+"Norway",1990,76.53732
+"Norway",1991,76.98073
+"Norway",1992,77.18439
+"Norway",1993,77.15171
+"Norway",1994,77.68976
+"Norway",1995,77.73659
+"Norway",1996,78.15049
+"Norway",1997,78.14268
+"Norway",1998,78.32927
+"Norway",1999,78.28293
+"Norway",2000,78.63415
+"Norway",2001,78.78536
+"Norway",2002,78.98781
+"Norway",2003,79.39024
+"Norway",2004,79.84146
+"Norway",2005,80.04147
+"Norway",2006,80.3439
+"Norway",2007,80.39512
+"Norway",2008,80.59268
+"Norway",2009,80.79512
+"Norway",2010,80.99756
+"Norway",2011,81.29512
+"Norway",2012,81.45122
+"Norway",2013,81.75122
+"Norway",2014,82.1
+"Pakistan",1981,57.295
+"Pakistan",1982,57.613
+"Pakistan",1983,57.926
+"Pakistan",1984,58.237
+"Pakistan",1985,58.545
+"Pakistan",1986,58.852
+"Pakistan",1987,59.157
+"Pakistan",1988,59.458
+"Pakistan",1989,59.756
+"Pakistan",1990,60.05
+"Pakistan",1991,60.338
+"Pakistan",1992,60.621
+"Pakistan",1993,60.898
+"Pakistan",1994,61.169
+"Pakistan",1995,61.436
+"Pakistan",1996,61.7
+"Pakistan",1997,61.961
+"Pakistan",1998,62.22
+"Pakistan",1999,62.476
+"Pakistan",2000,62.727
+"Pakistan",2001,62.967
+"Pakistan",2002,63.196
+"Pakistan",2003,63.414
+"Pakistan",2004,63.625
+"Pakistan",2005,63.836
+"Pakistan",2006,64.06
+"Pakistan",2007,64.303
+"Pakistan",2008,64.565
+"Pakistan",2009,64.845
+"Pakistan",2010,65.134
+"Pakistan",2011,65.419
+"Pakistan",2012,65.686
+"Pakistan",2013,65.927
+"Pakistan",2014,66.139
+"Palestine",1981,
+"Palestine",1982,
+"Palestine",1983,
+"Palestine",1984,
+"Palestine",1985,
+"Palestine",1986,
+"Palestine",1987,
+"Palestine",1988,
+"Palestine",1989,
+"Palestine",1990,
+"Palestine",1991,
+"Palestine",1992,
+"Palestine",1993,
+"Palestine",1994,
+"Palestine",1995,
+"Palestine",1996,
+"Palestine",1997,
+"Palestine",1998,
+"Palestine",1999,
+"Palestine",2000,
+"Palestine",2001,
+"Palestine",2002,
+"Palestine",2003,
+"Palestine",2004,
+"Palestine",2005,
+"Palestine",2006,
+"Palestine",2007,
+"Palestine",2008,
+"Palestine",2009,
+"Palestine",2010,
+"Palestine",2011,
+"Palestine",2012,
+"Palestine",2013,
+"Palestine",2014,
+"Peru",1981,60.662
+"Peru",1982,61.254
+"Peru",1983,61.836
+"Peru",1984,62.406
+"Peru",1985,62.962
+"Peru",1986,63.503
+"Peru",1987,64.029
+"Peru",1988,64.542
+"Peru",1989,65.045
+"Peru",1990,65.541
+"Peru",1991,66.034
+"Peru",1992,66.528
+"Peru",1993,67.024
+"Peru",1994,67.523
+"Peru",1995,68.026
+"Peru",1996,68.533
+"Peru",1997,69.041
+"Peru",1998,69.544
+"Peru",1999,70.036
+"Peru",2000,70.512
+"Peru",2001,70.964
+"Peru",2002,71.389
+"Peru",2003,71.784
+"Peru",2004,72.146
+"Peru",2005,72.473
+"Peru",2006,72.764
+"Peru",2007,73.023
+"Peru",2008,73.258
+"Peru",2009,73.475
+"Peru",2010,73.681
+"Peru",2011,73.883
+"Peru",2012,74.088
+"Peru",2013,74.298
+"Peru",2014,74.518
+"Philippines",1981,62.421
+"Philippines",1982,62.732
+"Philippines",1983,63.073
+"Philippines",1984,63.434
+"Philippines",1985,63.798
+"Philippines",1986,64.149
+"Philippines",1987,64.475
+"Philippines",1988,64.77
+"Philippines",1989,65.029
+"Philippines",1990,65.256
+"Philippines",1991,65.461
+"Philippines",1992,65.657
+"Philippines",1993,65.856
+"Philippines",1994,66.059
+"Philippines",1995,66.265
+"Philippines",1996,66.471
+"Philippines",1997,66.668
+"Philippines",1998,66.851
+"Philippines",1999,67.019
+"Philippines",2000,67.17
+"Philippines",2001,67.308
+"Philippines",2002,67.434
+"Philippines",2003,67.555
+"Philippines",2004,67.67
+"Philippines",2005,67.783
+"Philippines",2006,67.892
+"Philippines",2007,68
+"Philippines",2008,68.105
+"Philippines",2009,68.211
+"Philippines",2010,68.32
+"Philippines",2011,68.433
+"Philippines",2012,68.553
+"Philippines",2013,68.68
+"Philippines",2014,68.813
+"Poland",1981,71.05122
+"Poland",1982,71.10244
+"Poland",1983,71
+"Poland",1984,70.8
+"Poland",1985,70.54878
+"Poland",1986,70.84878
+"Poland",1987,70.89756
+"Poland",1988,71.33171
+"Poland",1989,71.0439
+"Poland",1990,70.89024
+"Poland",1991,70.58781
+"Poland",1992,71.09024
+"Poland",1993,71.59512
+"Poland",1994,71.69512
+"Poland",1995,71.89268
+"Poland",1996,72.24634
+"Poland",1997,72.64634
+"Poland",1998,72.99756
+"Poland",1999,73.0439
+"Poland",2000,73.74878
+"Poland",2001,74.2
+"Poland",2002,74.49756
+"Poland",2003,74.59756
+"Poland",2004,74.84634
+"Poland",2005,74.99512
+"Poland",2006,75.14391
+"Poland",2007,75.2439
+"Poland",2008,75.5439
+"Poland",2009,75.69512
+"Poland",2010,76.24634
+"Poland",2011,76.69512
+"Poland",2012,76.74634
+"Poland",2013,77
+"Poland",2014,77.60244
+"Puerto Rico",1981,73.79746
+"Puerto Rico",1982,73.90858
+"Puerto Rico",1983,74.03664
+"Puerto Rico",1984,74.17764
+"Puerto Rico",1985,74.3092
+"Puerto Rico",1986,74.40039
+"Puerto Rico",1987,74.43098
+"Puerto Rico",1988,74.3941
+"Puerto Rico",1989,74.29895
+"Puerto Rico",1990,74.16917
+"Puerto Rico",1991,74.0388
+"Puerto Rico",1992,73.94637
+"Puerto Rico",1993,73.92088
+"Puerto Rico",1994,73.97691
+"Puerto Rico",1995,74.12508
+"Puerto Rico",1996,74.36249
+"Puerto Rico",1997,74.66663
+"Puerto Rico",1998,75.01141
+"Puerto Rico",1999,75.38117
+"Puerto Rico",2000,76.68927
+"Puerto Rico",2001,77.06683
+"Puerto Rico",2002,77.76049
+"Puerto Rico",2003,78.07122
+"Puerto Rico",2004,78.17585
+"Puerto Rico",2005,78.2961
+"Puerto Rico",2006,78.41634
+"Puerto Rico",2007,78.42585
+"Puerto Rico",2008,77.90349
+"Puerto Rico",2009,78.1498
+"Puerto Rico",2010,78.40817
+"Puerto Rico",2011,78.6712
+"Puerto Rico",2012,78.92641
+"Puerto Rico",2013,79.16739
+"Puerto Rico",2014,79.39012
+"Qatar",1981,72.956
+"Qatar",1982,73.247
+"Qatar",1983,73.52
+"Qatar",1984,73.777
+"Qatar",1985,74.017
+"Qatar",1986,74.241
+"Qatar",1987,74.448
+"Qatar",1988,74.64
+"Qatar",1989,74.818
+"Qatar",1990,74.984
+"Qatar",1991,75.138
+"Qatar",1992,75.283
+"Qatar",1993,75.42
+"Qatar",1994,75.551
+"Qatar",1995,75.678
+"Qatar",1996,75.802
+"Qatar",1997,75.924
+"Qatar",1998,76.045
+"Qatar",1999,76.164
+"Qatar",2000,76.279
+"Qatar",2001,76.387
+"Qatar",2002,76.488
+"Qatar",2003,76.581
+"Qatar",2004,76.668
+"Qatar",2005,76.754
+"Qatar",2006,76.843
+"Qatar",2007,76.94
+"Qatar",2008,77.049
+"Qatar",2009,77.169
+"Qatar",2010,77.301
+"Qatar",2011,77.443
+"Qatar",2012,77.59
+"Qatar",2013,77.739
+"Qatar",2014,77.888
+"Romania",1981,69.36829
+"Romania",1982,69.53171
+"Romania",1983,69.72634
+"Romania",1984,69.65878
+"Romania",1985,69.70683
+"Romania",1986,69.49634
+"Romania",1987,69.22683
+"Romania",1988,69.38805
+"Romania",1989,69.53073
+"Romania",1990,69.74122
+"Romania",1991,69.78439
+"Romania",1992,69.78439
+"Romania",1993,69.56342
+"Romania",1994,69.50976
+"Romania",1995,69.4561
+"Romania",1996,69.10488
+"Romania",1997,69.00488
+"Romania",1998,69.80732
+"Romania",1999,70.51219
+"Romania",2000,71.16341
+"Romania",2001,71.16097
+"Romania",2002,71.00976
+"Romania",2003,71.30975
+"Romania",2004,71.59428
+"Romania",2005,71.8789
+"Romania",2006,72.16341
+"Romania",2007,72.56586
+"Romania",2008,72.56586
+"Romania",2009,73.30975
+"Romania",2010,73.45853
+"Romania",2011,74.40976
+"Romania",2012,74.41219
+"Romania",2013,75.06342
+"Romania",2014,74.96098
+"Russia",1981,67.2639
+"Russia",1982,67.8061
+"Russia",1983,67.65268
+"Russia",1984,67.20268
+"Russia",1985,67.85683
+"Russia",1986,69.38976
+"Russia",1987,69.44
+"Russia",1988,69.46439
+"Russia",1989,69.17171
+"Russia",1990,68.8861
+"Russia",1991,68.47439
+"Russia",1992,66.87317
+"Russia",1993,64.93585
+"Russia",1994,64.46707
+"Russia",1995,64.69073
+"Russia",1996,65.85415
+"Russia",1997,66.69878
+"Russia",1998,67.02975
+"Russia",1999,65.98219
+"Russia",2000,65.48366
+"Russia",2001,65.38342
+"Russia",2002,65.12878
+"Russia",2003,65.04781
+"Russia",2004,65.47098
+"Russia",2005,65.52975
+"Russia",2006,66.72756
+"Russia",2007,67.58683
+"Russia",2008,67.94926
+"Russia",2009,68.68463
+"Russia",2010,68.84122
+"Russia",2011,69.6839
+"Russia",2012,70.0722
+"Russia",2013,70.57878
+"Russia",2014,70.74366
+"Rwanda",1981,49.013
+"Rwanda",1982,49.934
+"Rwanda",1983,50.708
+"Rwanda",1984,51.177
+"Rwanda",1985,50.948
+"Rwanda",1986,49.579
+"Rwanda",1987,46.969
+"Rwanda",1988,43.264
+"Rwanda",1989,38.782
+"Rwanda",1990,34.217
+"Rwanda",1991,30.434
+"Rwanda",1992,28.102
+"Rwanda",1993,27.61
+"Rwanda",1994,29.003
+"Rwanda",1995,31.977
+"Rwanda",1996,35.923
+"Rwanda",1997,40.013
+"Rwanda",1998,43.596
+"Rwanda",1999,46.412
+"Rwanda",2000,48.415
+"Rwanda",2001,49.793
+"Rwanda",2002,50.97
+"Rwanda",2003,52.268
+"Rwanda",2004,53.755
+"Rwanda",2005,55.43
+"Rwanda",2006,57.219
+"Rwanda",2007,58.971
+"Rwanda",2008,60.565
+"Rwanda",2009,61.962
+"Rwanda",2010,63.14
+"Rwanda",2011,64.106
+"Rwanda",2012,64.911
+"Rwanda",2013,65.598
+"Rwanda",2014,66.188
+"Saudi Arabia",1981,63.84
+"Saudi Arabia",1982,64.586
+"Saudi Arabia",1983,65.285
+"Saudi Arabia",1984,65.938
+"Saudi Arabia",1985,66.548
+"Saudi Arabia",1986,67.115
+"Saudi Arabia",1987,67.64
+"Saudi Arabia",1988,68.129
+"Saudi Arabia",1989,68.586
+"Saudi Arabia",1990,69.017
+"Saudi Arabia",1991,69.428
+"Saudi Arabia",1992,69.822
+"Saudi Arabia",1993,70.201
+"Saudi Arabia",1994,70.567
+"Saudi Arabia",1995,70.922
+"Saudi Arabia",1996,71.266
+"Saudi Arabia",1997,71.594
+"Saudi Arabia",1998,71.902
+"Saudi Arabia",1999,72.187
+"Saudi Arabia",2000,72.44
+"Saudi Arabia",2001,72.651
+"Saudi Arabia",2002,72.82
+"Saudi Arabia",2003,72.948
+"Saudi Arabia",2004,73.041
+"Saudi Arabia",2005,73.112
+"Saudi Arabia",2006,73.176
+"Saudi Arabia",2007,73.245
+"Saudi Arabia",2008,73.331
+"Saudi Arabia",2009,73.44
+"Saudi Arabia",2010,73.574
+"Saudi Arabia",2011,73.73
+"Saudi Arabia",2012,73.896
+"Saudi Arabia",2013,74.066
+"Saudi Arabia",2014,74.234
+"Serbia",1981,
+"Serbia",1982,
+"Serbia",1983,
+"Serbia",1984,
+"Serbia",1985,
+"Serbia",1986,
+"Serbia",1987,
+"Serbia",1988,
+"Serbia",1989,
+"Serbia",1990,
+"Serbia",1991,71.48781
+"Serbia",1992,
+"Serbia",1993,
+"Serbia",1994,
+"Serbia",1995,
+"Serbia",1996,
+"Serbia",1997,72.03902
+"Serbia",1998,
+"Serbia",1999,
+"Serbia",2000,71.58292
+"Serbia",2001,72.23415
+"Serbia",2002,72.28536
+"Serbia",2003,72.43658
+"Serbia",2004,72.68293
+"Serbia",2005,72.83414
+"Serbia",2006,73.38537
+"Serbia",2007,73.63171
+"Serbia",2008,73.88537
+"Serbia",2009,73.98537
+"Serbia",2010,74.33659
+"Serbia",2011,74.53658
+"Serbia",2012,74.83659
+"Serbia",2013,75.18536
+"Serbia",2014,75.33659
+"Serbia and Montenegro",1981,
+"Serbia and Montenegro",1982,
+"Serbia and Montenegro",1983,
+"Serbia and Montenegro",1984,
+"Serbia and Montenegro",1985,
+"Serbia and Montenegro",1986,
+"Serbia and Montenegro",1987,
+"Serbia and Montenegro",1988,
+"Serbia and Montenegro",1989,
+"Serbia and Montenegro",1990,
+"Serbia and Montenegro",1991,
+"Serbia and Montenegro",1992,
+"Serbia and Montenegro",1993,
+"Serbia and Montenegro",1994,
+"Serbia and Montenegro",1995,
+"Serbia and Montenegro",1996,
+"Serbia and Montenegro",1997,
+"Serbia and Montenegro",1998,
+"Serbia and Montenegro",1999,
+"Serbia and Montenegro",2000,
+"Serbia and Montenegro",2001,
+"Serbia and Montenegro",2002,
+"Serbia and Montenegro",2003,
+"Serbia and Montenegro",2004,
+"Serbia and Montenegro",2005,
+"Serbia and Montenegro",2006,
+"Serbia and Montenegro",2007,
+"Serbia and Montenegro",2008,
+"Serbia and Montenegro",2009,
+"Serbia and Montenegro",2010,
+"Serbia and Montenegro",2011,
+"Serbia and Montenegro",2012,
+"Serbia and Montenegro",2013,
+"Serbia and Montenegro",2014,
+"Singapore",1981,72.58781
+"Singapore",1982,72.68781
+"Singapore",1983,73.03658
+"Singapore",1984,73.29025
+"Singapore",1985,73.89024
+"Singapore",1986,74.24634
+"Singapore",1987,74.54878
+"Singapore",1988,74.69756
+"Singapore",1989,74.94634
+"Singapore",1990,75.29512
+"Singapore",1991,75.64634
+"Singapore",1992,75.94634
+"Singapore",1993,76.04634
+"Singapore",1994,76.19756
+"Singapore",1995,76.29512
+"Singapore",1996,76.59512
+"Singapore",1997,76.89756
+"Singapore",1998,77.3
+"Singapore",1999,77.55122
+"Singapore",2000,77.95122
+"Singapore",2001,78.25122
+"Singapore",2002,78.55122
+"Singapore",2003,79.03902
+"Singapore",2004,79.49024
+"Singapore",2005,79.99024
+"Singapore",2006,80.14146
+"Singapore",2007,80.44146
+"Singapore",2008,80.79025
+"Singapore",2009,81.24146
+"Singapore",2010,81.54147
+"Singapore",2011,81.7439
+"Singapore",2012,81.99512
+"Singapore",2013,82.24634
+"Singapore",2014,82.49512
+"Slovakia",1981,70.62926
+"Slovakia",1982,70.68903
+"Slovakia",1983,70.47903
+"Slovakia",1984,70.75098
+"Slovakia",1985,70.73463
+"Slovakia",1986,71.02122
+"Slovakia",1987,71.08878
+"Slovakia",1988,71.2078
+"Slovakia",1989,71.02634
+"Slovakia",1990,70.93269
+"Slovakia",1991,70.88293
+"Slovakia",1992,71.79512
+"Slovakia",1993,72.44878
+"Slovakia",1994,72.3
+"Slovakia",1995,72.25366
+"Slovakia",1996,72.65366
+"Slovakia",1997,72.70488
+"Slovakia",1998,72.55122
+"Slovakia",1999,72.90244
+"Slovakia",2000,73.05122
+"Slovakia",2001,73.40244
+"Slovakia",2002,73.60488
+"Slovakia",2003,73.60488
+"Slovakia",2004,73.95853
+"Slovakia",2005,73.90488
+"Slovakia",2006,74.20488
+"Slovakia",2007,74.20731
+"Slovakia",2008,74.70488
+"Slovakia",2009,74.90976
+"Slovakia",2010,75.1122
+"Slovakia",2011,75.95853
+"Slovakia",2012,76.10976
+"Slovakia",2013,76.41219
+"Slovakia",2014,76.81219
+"Slovenia",1981,71.20488
+"Slovenia",1982,71.05366
+"Slovenia",1983,70.54147
+"Slovenia",1984,70.90244
+"Slovenia",1985,71.35122
+"Slovenia",1986,71.80244
+"Slovenia",1987,72.00244
+"Slovenia",1988,72.44634
+"Slovenia",1989,72.70488
+"Slovenia",1990,73.20488
+"Slovenia",1991,73.35366
+"Slovenia",1992,73.30488
+"Slovenia",1993,73.25366
+"Slovenia",1994,73.40488
+"Slovenia",1995,73.95853
+"Slovenia",1996,74.45853
+"Slovenia",1997,74.70731
+"Slovenia",1998,74.80732
+"Slovenia",1999,75.00976
+"Slovenia",2000,75.41219
+"Slovenia",2001,75.75854
+"Slovenia",2002,76.00732
+"Slovenia",2003,76.85854
+"Slovenia",2004,77.20731
+"Slovenia",2005,77.6122
+"Slovenia",2006,78.08659
+"Slovenia",2007,78.56097
+"Slovenia",2008,78.76585
+"Slovenia",2009,78.97073
+"Slovenia",2010,79.42195
+"Slovenia",2011,79.97073
+"Slovenia",2012,80.12439
+"Slovenia",2013,80.32195
+"Slovenia",2014,81.07805
+"South Africa",1981,57.957
+"South Africa",1982,58.287
+"South Africa",1983,58.69
+"South Africa",1984,59.154
+"South Africa",1985,59.668
+"South Africa",1986,60.219
+"South Africa",1987,60.773
+"South Africa",1988,61.291
+"South Africa",1989,61.734
+"South Africa",1990,62.062
+"South Africa",1991,62.239
+"South Africa",1992,62.251
+"South Africa",1993,62.092
+"South Africa",1994,61.756
+"South Africa",1995,61.226
+"South Africa",1996,60.49
+"South Africa",1997,59.58
+"South Africa",1998,58.548
+"South Africa",1999,57.45
+"South Africa",2000,56.341
+"South Africa",2001,55.273
+"South Africa",2002,54.299
+"South Africa",2003,53.481
+"South Africa",2004,52.878
+"South Africa",2005,52.567
+"South Africa",2006,52.614
+"South Africa",2007,53.01
+"South Africa",2008,53.72
+"South Africa",2009,54.701
+"South Africa",2010,55.888
+"South Africa",2011,57.201
+"South Africa",2012,58.545
+"South Africa",2013,59.83
+"South Africa",2014,60.993
+"South Korea",1981,66.54634
+"South Korea",1982,67.09512
+"South Korea",1983,67.54634
+"South Korea",1984,68.19512
+"South Korea",1985,68.79512
+"South Korea",1986,69.44634
+"South Korea",1987,69.99756
+"South Korea",1988,70.54878
+"South Korea",1989,71.04878
+"South Korea",1990,71.59756
+"South Korea",1991,72.04634
+"South Korea",1992,72.49756
+"South Korea",1993,72.99756
+"South Korea",1994,73.39756
+"South Korea",1995,73.7
+"South Korea",1996,74.15122
+"South Korea",1997,74.60244
+"South Korea",1998,75.00488
+"South Korea",1999,75.40976
+"South Korea",2000,75.90976
+"South Korea",2001,76.41219
+"South Korea",2002,76.76585
+"South Korea",2003,77.21464
+"South Korea",2004,77.66586
+"South Korea",2005,78.16829
+"South Korea",2006,78.66829
+"South Korea",2007,79.11951
+"South Korea",2008,79.51707
+"South Korea",2009,79.96829
+"South Korea",2010,80.11707
+"South Korea",2011,80.56829
+"South Korea",2012,80.81951
+"South Korea",2013,81.27073
+"South Korea",2014,81.72195
+"Spain",1981,75.52853
+"Spain",1982,76.13415
+"Spain",1983,75.90903
+"Spain",1984,76.29536
+"Spain",1985,76.25951
+"Spain",1986,76.51049
+"Spain",1987,76.72805
+"Spain",1988,76.74707
+"Spain",1989,76.81366
+"Spain",1990,76.83756
+"Spain",1991,76.97122
+"Spain",1992,77.41
+"Spain",1993,77.54659
+"Spain",1994,77.90147
+"Spain",1995,77.98073
+"Spain",1996,78.12049
+"Spain",1997,78.60415
+"Spain",1998,78.66586
+"Spain",1999,78.71707
+"Spain",2000,78.96585
+"Spain",2001,79.36829
+"Spain",2002,79.56829
+"Spain",2003,79.61951
+"Spain",2004,79.87074
+"Spain",2005,80.17073
+"Spain",2006,80.82195
+"Spain",2007,80.87317
+"Spain",2008,81.17561
+"Spain",2009,81.47561
+"Spain",2010,81.62683
+"Spain",2011,82.47561
+"Spain",2012,82.42683
+"Spain",2013,83.07805
+"Spain",2014,83.22927
+"Sweden",1981,76.0261
+"Sweden",1982,76.32732
+"Sweden",1983,76.5517
+"Sweden",1984,76.81586
+"Sweden",1985,76.66781
+"Sweden",1986,76.93122
+"Sweden",1987,77.09219
+"Sweden",1988,76.97927
+"Sweden",1989,77.72683
+"Sweden",1990,77.53683
+"Sweden",1991,77.66683
+"Sweden",1992,77.99878
+"Sweden",1993,78.06049
+"Sweden",1994,78.65025
+"Sweden",1995,78.74049
+"Sweden",1996,78.95902
+"Sweden",1997,79.19756
+"Sweden",1998,79.33903
+"Sweden",1999,79.44146
+"Sweden",2000,79.64391
+"Sweden",2001,79.79512
+"Sweden",2002,79.84634
+"Sweden",2003,80.09512
+"Sweden",2004,80.49756
+"Sweden",2005,80.54634
+"Sweden",2006,80.74878
+"Sweden",2007,80.9
+"Sweden",2008,81.1
+"Sweden",2009,81.35122
+"Sweden",2010,81.45122
+"Sweden",2011,81.80244
+"Sweden",2012,81.70488
+"Sweden",2013,81.9561
+"Sweden",2014,82.25366
+"Switzerland",1981,75.69317
+"Switzerland",1982,76.03391
+"Switzerland",1983,76.03122
+"Switzerland",1984,76.60854
+"Switzerland",1985,76.73366
+"Switzerland",1986,76.89902
+"Switzerland",1987,77.19756
+"Switzerland",1988,77.22659
+"Switzerland",1989,77.42122
+"Switzerland",1990,77.24244
+"Switzerland",1991,77.51463
+"Switzerland",1992,77.8061
+"Switzerland",1993,78.08537
+"Switzerland",1994,78.35
+"Switzerland",1995,78.41708
+"Switzerland",1996,78.8961
+"Switzerland",1997,79.07951
+"Switzerland",1998,79.32439
+"Switzerland",1999,79.58049
+"Switzerland",2000,79.68049
+"Switzerland",2001,80.18049
+"Switzerland",2002,80.38537
+"Switzerland",2003,80.53658
+"Switzerland",2004,81.08781
+"Switzerland",2005,81.23659
+"Switzerland",2006,81.49024
+"Switzerland",2007,81.74146
+"Switzerland",2008,81.99268
+"Switzerland",2009,82.0439
+"Switzerland",2010,82.24634
+"Switzerland",2011,82.69512
+"Switzerland",2012,82.69756
+"Switzerland",2013,82.79756
+"Switzerland",2014,83.19756
+"Taiwan",1981,
+"Taiwan",1982,
+"Taiwan",1983,
+"Taiwan",1984,
+"Taiwan",1985,
+"Taiwan",1986,
+"Taiwan",1987,
+"Taiwan",1988,
+"Taiwan",1989,
+"Taiwan",1990,
+"Taiwan",1991,
+"Taiwan",1992,
+"Taiwan",1993,
+"Taiwan",1994,
+"Taiwan",1995,
+"Taiwan",1996,
+"Taiwan",1997,
+"Taiwan",1998,
+"Taiwan",1999,
+"Taiwan",2000,
+"Taiwan",2001,
+"Taiwan",2002,
+"Taiwan",2003,
+"Taiwan",2004,
+"Taiwan",2005,
+"Taiwan",2006,
+"Taiwan",2007,
+"Taiwan",2008,
+"Taiwan",2009,
+"Taiwan",2010,
+"Taiwan",2011,
+"Taiwan",2012,
+"Taiwan",2013,
+"Taiwan",2014,
+"Tanzania",1981,50.576
+"Tanzania",1982,50.692
+"Tanzania",1983,50.788
+"Tanzania",1984,50.863
+"Tanzania",1985,50.904
+"Tanzania",1986,50.888
+"Tanzania",1987,50.803
+"Tanzania",1988,50.651
+"Tanzania",1989,50.447
+"Tanzania",1990,50.206
+"Tanzania",1991,49.953
+"Tanzania",1992,49.719
+"Tanzania",1993,49.54
+"Tanzania",1994,49.444
+"Tanzania",1995,49.46
+"Tanzania",1996,49.609
+"Tanzania",1997,49.889
+"Tanzania",1998,50.297
+"Tanzania",1999,50.831
+"Tanzania",2000,51.493
+"Tanzania",2001,52.281
+"Tanzania",2002,53.173
+"Tanzania",2003,54.142
+"Tanzania",2004,55.161
+"Tanzania",2005,56.196
+"Tanzania",2006,57.218
+"Tanzania",2007,58.209
+"Tanzania",2008,59.156
+"Tanzania",2009,60.048
+"Tanzania",2010,60.893
+"Tanzania",2011,61.713
+"Tanzania",2012,62.528
+"Tanzania",2013,63.348
+"Tanzania",2014,64.163
+"Thailand",1981,64.993
+"Thailand",1982,65.635
+"Thailand",1983,66.353
+"Thailand",1984,67.128
+"Thailand",1985,67.911
+"Thailand",1986,68.642
+"Thailand",1987,69.266
+"Thailand",1988,69.747
+"Thailand",1989,70.073
+"Thailand",1990,70.25
+"Thailand",1991,70.303
+"Thailand",1992,70.283
+"Thailand",1993,70.241
+"Thailand",1994,70.204
+"Thailand",1995,70.192
+"Thailand",1996,70.214
+"Thailand",1997,70.266
+"Thailand",1998,70.346
+"Thailand",1999,70.462
+"Thailand",2000,70.624
+"Thailand",2001,70.841
+"Thailand",2002,71.11
+"Thailand",2003,71.424
+"Thailand",2004,71.775
+"Thailand",2005,72.149
+"Thailand",2006,72.534
+"Thailand",2007,72.915
+"Thailand",2008,73.279
+"Thailand",2009,73.617
+"Thailand",2010,73.923
+"Thailand",2011,74.197
+"Thailand",2012,74.446
+"Thailand",2013,74.678
+"Thailand",2014,74.895
+"Trinidad and Tobago",1981,67.138
+"Trinidad and Tobago",1982,67.239
+"Trinidad and Tobago",1983,67.335
+"Trinidad and Tobago",1984,67.428
+"Trinidad and Tobago",1985,67.523
+"Trinidad and Tobago",1986,67.62
+"Trinidad and Tobago",1987,67.719
+"Trinidad and Tobago",1988,67.817
+"Trinidad and Tobago",1989,67.914
+"Trinidad and Tobago",1990,68.007
+"Trinidad and Tobago",1991,68.094
+"Trinidad and Tobago",1992,68.171
+"Trinidad and Tobago",1993,68.238
+"Trinidad and Tobago",1994,68.296
+"Trinidad and Tobago",1995,68.344
+"Trinidad and Tobago",1996,68.384
+"Trinidad and Tobago",1997,68.419
+"Trinidad and Tobago",1998,68.452
+"Trinidad and Tobago",1999,68.489
+"Trinidad and Tobago",2000,68.532
+"Trinidad and Tobago",2001,68.584
+"Trinidad and Tobago",2002,68.648
+"Trinidad and Tobago",2003,68.724
+"Trinidad and Tobago",2004,68.816
+"Trinidad and Tobago",2005,68.927
+"Trinidad and Tobago",2006,69.06
+"Trinidad and Tobago",2007,69.214
+"Trinidad and Tobago",2008,69.384
+"Trinidad and Tobago",2009,69.567
+"Trinidad and Tobago",2010,69.756
+"Trinidad and Tobago",2011,69.942
+"Trinidad and Tobago",2012,70.118
+"Trinidad and Tobago",2013,70.28
+"Trinidad and Tobago",2014,70.426
+"Tunisia",1981,62.925
+"Tunisia",1982,63.771
+"Tunisia",1983,64.532
+"Tunisia",1984,65.214
+"Tunisia",1985,65.834
+"Tunisia",1986,66.417
+"Tunisia",1987,66.991
+"Tunisia",1988,67.576
+"Tunisia",1989,68.176
+"Tunisia",1990,68.788
+"Tunisia",1991,69.401
+"Tunisia",1992,69.99
+"Tunisia",1993,70.54
+"Tunisia",1994,71.043
+"Tunisia",1995,71.496
+"Tunisia",1996,71.898
+"Tunisia",1997,72.259
+"Tunisia",1998,72.586
+"Tunisia",1999,72.883
+"Tunisia",2000,73.155
+"Tunisia",2001,73.402
+"Tunisia",2002,73.629
+"Tunisia",2003,73.836
+"Tunisia",2004,74.026
+"Tunisia",2005,74.2
+"Tunisia",2006,74.352
+"Tunisia",2007,74.483
+"Tunisia",2008,74.595
+"Tunisia",2009,74.695
+"Tunisia",2010,74.793
+"Tunisia",2011,74.9
+"Tunisia",2012,75.023
+"Tunisia",2013,75.167
+"Tunisia",2014,75.335
+"Turkey",1981,59.297
+"Turkey",1982,59.915
+"Turkey",1983,60.52
+"Turkey",1984,61.111
+"Turkey",1985,61.682
+"Turkey",1986,62.231
+"Turkey",1987,62.758
+"Turkey",1988,63.266
+"Turkey",1989,63.763
+"Turkey",1990,64.256
+"Turkey",1991,64.757
+"Turkey",1992,65.275
+"Turkey",1993,65.815
+"Turkey",1994,66.377
+"Turkey",1995,66.963
+"Turkey",1996,67.57
+"Turkey",1997,68.189
+"Turkey",1998,68.807
+"Turkey",1999,69.417
+"Turkey",2000,70.008
+"Turkey",2001,70.571
+"Turkey",2002,71.102
+"Turkey",2003,71.6
+"Turkey",2004,72.06
+"Turkey",2005,72.481
+"Turkey",2006,72.866
+"Turkey",2007,73.219
+"Turkey",2008,73.549
+"Turkey",2009,73.859
+"Turkey",2010,74.154
+"Turkey",2011,74.437
+"Turkey",2012,74.711
+"Turkey",2013,74.977
+"Turkey",2014,75.239
+"Uganda",1981,49.272
+"Uganda",1982,49.096
+"Uganda",1983,48.842
+"Uganda",1984,48.512
+"Uganda",1985,48.104
+"Uganda",1986,47.625
+"Uganda",1987,47.097
+"Uganda",1988,46.549
+"Uganda",1989,46.012
+"Uganda",1990,45.509
+"Uganda",1991,45.058
+"Uganda",1992,44.676
+"Uganda",1993,44.388
+"Uganda",1994,44.223
+"Uganda",1995,44.22
+"Uganda",1996,44.415
+"Uganda",1997,44.811
+"Uganda",1998,45.397
+"Uganda",1999,46.16
+"Uganda",2000,47.077
+"Uganda",2001,48.12
+"Uganda",2002,49.242
+"Uganda",2003,50.394
+"Uganda",2004,51.538
+"Uganda",2005,52.64
+"Uganda",2006,53.681
+"Uganda",2007,54.66
+"Uganda",2008,55.574
+"Uganda",2009,56.409
+"Uganda",2010,57.153
+"Uganda",2011,57.796
+"Uganda",2012,58.347
+"Uganda",2013,58.819
+"Uganda",2014,59.224
+"Ukraine",1981,68.81083
+"Ukraine",1982,68.90125
+"Ukraine",1983,69.07748
+"Ukraine",1984,69.31734
+"Ukraine",1985,69.57478
+"Ukraine",1986,69.79124
+"Ukraine",1987,70.49512
+"Ukraine",1988,70.49756
+"Ukraine",1989,70.53902
+"Ukraine",1990,70.13659
+"Ukraine",1991,68.87805
+"Ukraine",1992,69.06829
+"Ukraine",1993,68.47561
+"Ukraine",1994,67.83854
+"Ukraine",1995,67.13707
+"Ukraine",1996,66.8878
+"Ukraine",1997,67.29536
+"Ukraine",1998,67.98878
+"Ukraine",1999,68.21342
+"Ukraine",2000,67.85951
+"Ukraine",2001,68.28707
+"Ukraine",2002,68.27561
+"Ukraine",2003,68.21073
+"Ukraine",2004,68.18536
+"Ukraine",2005,67.95683
+"Ukraine",2006,68.07756
+"Ukraine",2007,68.2222
+"Ukraine",2008,68.25146
+"Ukraine",2009,69.19
+"Ukraine",2010,70.26537
+"Ukraine",2011,70.80927
+"Ukraine",2012,70.94415
+"Ukraine",2013,71.15952
+"Ukraine",2014,71.18658
+"United States",1981,74.00976
+"United States",1982,74.36098
+"United States",1983,74.46342
+"United States",1984,74.56342
+"United States",1985,74.56342
+"United States",1986,74.61463
+"United States",1987,74.76585
+"United States",1988,74.76585
+"United States",1989,75.01707
+"United States",1990,75.21464
+"United States",1991,75.36585
+"United States",1992,75.61707
+"United States",1993,75.41951
+"United States",1994,75.61951
+"United States",1995,75.62195
+"United States",1996,76.02683
+"United States",1997,76.42927
+"United States",1998,76.58049
+"United States",1999,76.58292
+"United States",2000,76.63659
+"United States",2001,76.83659
+"United States",2002,76.93658
+"United States",2003,77.03658
+"United States",2004,77.48781
+"United States",2005,77.48781
+"United States",2006,77.68781
+"United States",2007,77.98781
+"United States",2008,78.03902
+"United States",2009,78.39024
+"United States",2010,78.54147
+"United States",2011,78.64146
+"United States",2012,78.74146
+"United States",2013,78.74146
+"United States",2014,78.84146
+"Uruguay",1981,70.535
+"Uruguay",1982,70.814
+"Uruguay",1983,71.085
+"Uruguay",1984,71.343
+"Uruguay",1985,71.584
+"Uruguay",1986,71.805
+"Uruguay",1987,72.009
+"Uruguay",1988,72.203
+"Uruguay",1989,72.388
+"Uruguay",1990,72.571
+"Uruguay",1991,72.758
+"Uruguay",1992,72.954
+"Uruguay",1993,73.161
+"Uruguay",1994,73.381
+"Uruguay",1995,73.613
+"Uruguay",1996,73.854
+"Uruguay",1997,74.098
+"Uruguay",1998,74.341
+"Uruguay",1999,74.577
+"Uruguay",2000,74.805
+"Uruguay",2001,75.022
+"Uruguay",2002,75.229
+"Uruguay",2003,75.427
+"Uruguay",2004,75.614
+"Uruguay",2005,75.792
+"Uruguay",2006,75.961
+"Uruguay",2007,76.124
+"Uruguay",2008,76.282
+"Uruguay",2009,76.436
+"Uruguay",2010,76.588
+"Uruguay",2011,76.739
+"Uruguay",2012,76.89
+"Uruguay",2013,77.04
+"Uruguay",2014,77.19
+"Uzbekistan",1981,64.913
+"Uzbekistan",1982,65.206
+"Uzbekistan",1983,65.504
+"Uzbekistan",1984,65.795
+"Uzbekistan",1985,66.058
+"Uzbekistan",1986,66.269
+"Uzbekistan",1987,66.415
+"Uzbekistan",1988,66.495
+"Uzbekistan",1989,66.512
+"Uzbekistan",1990,66.481
+"Uzbekistan",1991,66.424
+"Uzbekistan",1992,66.368
+"Uzbekistan",1993,66.336
+"Uzbekistan",1994,66.343
+"Uzbekistan",1995,66.396
+"Uzbekistan",1996,66.494
+"Uzbekistan",1997,66.626
+"Uzbekistan",1998,66.782
+"Uzbekistan",1999,66.959
+"Uzbekistan",2000,67.154
+"Uzbekistan",2001,67.366
+"Uzbekistan",2002,67.594
+"Uzbekistan",2003,67.837
+"Uzbekistan",2004,68.094
+"Uzbekistan",2005,68.367
+"Uzbekistan",2006,68.663
+"Uzbekistan",2007,68.982
+"Uzbekistan",2008,69.319
+"Uzbekistan",2009,69.665
+"Uzbekistan",2010,70.005
+"Uzbekistan",2011,70.322
+"Uzbekistan",2012,70.604
+"Uzbekistan",2013,70.844
+"Uzbekistan",2014,71.039
+"Venezuela",1981,68.365
+"Venezuela",1982,68.593
+"Venezuela",1983,68.795
+"Venezuela",1984,68.975
+"Venezuela",1985,69.133
+"Venezuela",1986,69.274
+"Venezuela",1987,69.403
+"Venezuela",1988,69.529
+"Venezuela",1989,69.659
+"Venezuela",1990,69.804
+"Venezuela",1991,69.971
+"Venezuela",1992,70.165
+"Venezuela",1993,70.384
+"Venezuela",1994,70.628
+"Venezuela",1995,70.893
+"Venezuela",1996,71.176
+"Venezuela",1997,71.465
+"Venezuela",1998,71.752
+"Venezuela",1999,72.027
+"Venezuela",2000,72.281
+"Venezuela",2001,72.507
+"Venezuela",2002,72.704
+"Venezuela",2003,72.872
+"Venezuela",2004,73.015
+"Venezuela",2005,73.134
+"Venezuela",2006,73.235
+"Venezuela",2007,73.327
+"Venezuela",2008,73.419
+"Venezuela",2009,73.516
+"Venezuela",2010,73.625
+"Venezuela",2011,73.748
+"Venezuela",2012,73.885
+"Venezuela",2013,74.035
+"Venezuela",2014,74.196
+"Viet Nam",1981,67.953
+"Viet Nam",1982,68.214
+"Viet Nam",1983,68.45
+"Viet Nam",1984,68.699
+"Viet Nam",1985,68.982
+"Viet Nam",1986,69.3
+"Viet Nam",1987,69.626
+"Viet Nam",1988,69.94
+"Viet Nam",1989,70.242
+"Viet Nam",1990,70.536
+"Viet Nam",1991,70.826
+"Viet Nam",1992,71.113
+"Viet Nam",1993,71.399
+"Viet Nam",1994,71.685
+"Viet Nam",1995,71.968
+"Viet Nam",1996,72.248
+"Viet Nam",1997,72.519
+"Viet Nam",1998,72.781
+"Viet Nam",1999,73.03
+"Viet Nam",2000,73.265
+"Viet Nam",2001,73.487
+"Viet Nam",2002,73.695
+"Viet Nam",2003,73.893
+"Viet Nam",2004,74.082
+"Viet Nam",2005,74.263
+"Viet Nam",2006,74.438
+"Viet Nam",2007,74.609
+"Viet Nam",2008,74.777
+"Viet Nam",2009,74.946
+"Viet Nam",2010,75.117
+"Viet Nam",2011,75.294
+"Viet Nam",2012,75.476
+"Viet Nam",2013,75.663
+"Viet Nam",2014,75.855
+"Yemen",1981,51.621
+"Yemen",1982,52.577
+"Yemen",1983,53.489
+"Yemen",1984,54.346
+"Yemen",1985,55.133
+"Yemen",1986,55.837
+"Yemen",1987,56.46
+"Yemen",1988,57.004
+"Yemen",1989,57.475
+"Yemen",1990,57.877
+"Yemen",1991,58.22
+"Yemen",1992,58.519
+"Yemen",1993,58.787
+"Yemen",1994,59.036
+"Yemen",1995,59.275
+"Yemen",1996,59.504
+"Yemen",1997,59.724
+"Yemen",1998,59.939
+"Yemen",1999,60.155
+"Yemen",2000,60.382
+"Yemen",2001,60.631
+"Yemen",2002,60.903
+"Yemen",2003,61.2
+"Yemen",2004,61.52
+"Yemen",2005,61.857
+"Yemen",2006,62.205
+"Yemen",2007,62.552
+"Yemen",2008,62.888
+"Yemen",2009,63.208
+"Yemen",2010,63.508
+"Yemen",2011,63.786
+"Yemen",2012,64.046
+"Yemen",2013,64.291
+"Yemen",2014,64.523
+"Zambia",1981,50.957
+"Zambia",1982,50.525
+"Zambia",1983,49.986
+"Zambia",1984,49.359
+"Zambia",1985,48.661
+"Zambia",1986,47.913
+"Zambia",1987,47.142
+"Zambia",1988,46.379
+"Zambia",1989,45.658
+"Zambia",1990,45.003
+"Zambia",1991,44.431
+"Zambia",1992,43.948
+"Zambia",1993,43.564
+"Zambia",1994,43.297
+"Zambia",1995,43.166
+"Zambia",1996,43.183
+"Zambia",1997,43.346
+"Zambia",1998,43.653
+"Zambia",1999,44.104
+"Zambia",2000,44.702
+"Zambia",2001,45.448
+"Zambia",2002,46.33
+"Zambia",2003,47.33
+"Zambia",2004,48.432
+"Zambia",2005,49.63
+"Zambia",2006,50.929
+"Zambia",2007,52.313
+"Zambia",2008,53.749
+"Zambia",2009,55.194
+"Zambia",2010,56.588
+"Zambia",2011,57.872
+"Zambia",2012,59.011
+"Zambia",2013,59.982
+"Zambia",2014,60.775
+"Zimbabwe",1981,59.921
+"Zimbabwe",1982,60.386
+"Zimbabwe",1983,60.746
+"Zimbabwe",1984,60.965
+"Zimbabwe",1985,60.999
+"Zimbabwe",1986,60.816
+"Zimbabwe",1987,60.411
+"Zimbabwe",1988,59.794
+"Zimbabwe",1989,58.971
+"Zimbabwe",1990,57.944
+"Zimbabwe",1991,56.72
+"Zimbabwe",1992,55.337
+"Zimbabwe",1993,53.854
+"Zimbabwe",1994,52.329
+"Zimbabwe",1995,50.811
+"Zimbabwe",1996,49.34
+"Zimbabwe",1997,47.955
+"Zimbabwe",1998,46.705
+"Zimbabwe",1999,45.647
+"Zimbabwe",2000,44.841
+"Zimbabwe",2001,44.326
+"Zimbabwe",2002,44.109
+"Zimbabwe",2003,44.188
+"Zimbabwe",2004,44.571
+"Zimbabwe",2005,45.282
+"Zimbabwe",2006,46.344
+"Zimbabwe",2007,47.719
+"Zimbabwe",2008,49.337
+"Zimbabwe",2009,51.122
+"Zimbabwe",2010,52.975
+"Zimbabwe",2011,54.8
+"Zimbabwe",2012,56.516
+"Zimbabwe",2013,58.053
+"Zimbabwe",2014,59.36
